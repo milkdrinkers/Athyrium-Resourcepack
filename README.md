@@ -2,7 +2,7 @@
 
 This is the server resource-pack of the Athyrium Vanilla SMP.
 
-## Credits 
+## Credits  
 
 All credits for making these textures and models go to the orignial authors.
 
