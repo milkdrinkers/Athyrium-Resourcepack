@@ -73,13 +73,13 @@ jobs:
 
             # Set a custom output file path to work with the generated ZIP file
             # without needing to download its artifact in a separate step
-            output_file_path = '/tmp/alathra.zip'
+            output_file_path = '/tmp/athyrium.zip'
 
       # Create release
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
-          files: /tmp/alathra.zip
+          files: /tmp/athyrium.zip
           token: ${{ secrets.GITHUB_TOKEN }}
           tag_name: ${{ steps.semantic_release_info.outputs.git_tag }}
           draft: false
