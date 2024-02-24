@@ -1,0 +1,87 @@
+name: Create Release
+
+on:
+  push:
+    branches:
+      - 'main'
+      - 'master'
+    tags:
+      - '**'
+
+jobs:
+  release:
+    name: Create Release
+    runs-on: ubuntu-latest
+    steps:
+      # Download files and cache Git LFS files to reduce bandwidth usage
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          lfs: true
+
+      - name: LFS Create File List
+        run: git lfs ls-files --long | cut -d ' ' -f1 | sort > .lfs-assets-id
+
+      - name: LFS Cache
+        uses: actions/cache@v3
+        with:
+          path: .git/lfs/objects
+          key: ${{ runner.os }}-lfs-${{ hashFiles('.lfs-assets-id') }}
+          restore-keys: |
+            ${{ runner.os }}-lfs-
+
+      - name: LFS Pull
+        run: git lfs pull
+
+      # Uploads files so they can be optimized
+      - name: Compile Temp Archive
+        uses: actions/upload-artifact@v3
+        with:
+          name: temp-resourcepack
+          path: |
+            assets/
+            pack.mcmeta
+            pack.png
+          if-no-files-found: error
+
+      # Makes the semantic tag variable available for use in workflow
+      - name: Get Release Info
+        id: semantic_release_info
+        uses: jossef/action-semantic-release-info@v2.1.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Update version text in pack.mcmeta
+      - name: Update Resourcepack Version String
+        uses: jacobtomlinson/gha-find-replace@v3
+        with:
+          find: "DONT_TOUCH_THIS_STRING"
+          replace: ${{ steps.semantic_release_info.outputs.git_tag }}
+          include: "pack.mcmeta" # Will match the pack.mcmeta file in root
+
+      # Create optimized archive for release
+      - name: Compile Release Archive
+        uses: ComunidadAylas/PackSquash-action@v4
+        with:
+          artifact_name: '[UNZIP ME] temp-resourcepack'
+          packsquash_version: latest
+          options: |
+            # Optimize the pack in the root repository directory.
+            # This is the default value for pack_directory when no PackSquash options are defined
+            pack_directory = '.'
+
+            # Set a custom output file path to work with the generated ZIP file
+            # without needing to download its artifact in a separate step
+            output_file_path = '/tmp/alathra.zip'
+
+      # Create release
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: /tmp/alathra.zip
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag_name: ${{ steps.semantic_release_info.outputs.git_tag }}
+          draft: false
+          prerelease: false
+          generate_release_notes: true
