@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 16,
+    "description": "§bSkies of Athyrium VDONT_TOUCH_THIS_STRING\n§71.20+ §o§8| §7§oOptifine optional.",
+    "supported_formats": {"min_inclusive": 16, "max_inclusive": 100}
+  }
+}
