@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "facing=south": [ 
+			{ "model": "block/white_wood" },
+			{ "model": "block/white_wood1" },
+			{ "model": "block/white_wood2" },
+			{ "model": "block/white_wood3" },
+			{ "model": "block/white_wood4" },
+			{ "model": "block/white_wood5" }
+			],
+        "facing=west": { "model": "block/red_cobble"},
+        "facing=north": { "model": "block/brown_wall"},
+        "facing=east": { "model": "block/logs"}
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "variants": {
+        "facing=south": [
+			{ "model": "block/red_brick", "weight": 30 },
+			{ "model": "block/red_brick1", "weight": 30 },
+			{ "model": "block/red_brick2", "weight": 40 }
+		],
+        "facing=west": [
+			{ "model": "block/tan_brick", "weight": 30 },
+			{ "model": "block/tan_brick1", "weight": 30 },
+			{ "model": "block/tan_brick2", "weight": 40 }
+		],
+        "facing=north": [
+			{ "model": "block/gray_brick"},
+			{ "model": "block/gray_brick1"},
+			{ "model": "block/gray_brick2"},
+			{ "model": "block/gray_brick3"}
+		],
+        "facing=east": [
+			{ "model": "block/white_brick", "weight": 30 },
+			{ "model": "block/white_brick1", "weight": 30 },
+			{ "model": "block/white_brick2", "weight": 40 }
+		]
+    }
+}

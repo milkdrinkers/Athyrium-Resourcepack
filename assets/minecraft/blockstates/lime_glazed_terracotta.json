@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "facing=south": { "model": "block/green_roof" },
+        "facing=west": { "model": "block/dark_thatch"},
+        "facing=north": { "model": "block/black_roof"},
+        "facing=east": [
+			{ "model": "block/red_roof"},
+			{ "model": "block/red_roof1"},
+			{ "model": "block/red_roof2"},
+			{ "model": "block/red_roof3"}
+			]
+    }
+}

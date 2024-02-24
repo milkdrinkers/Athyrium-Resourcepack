@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "block/light_blue_roof" },
+        "facing=west": { "model": "block/green_shingle" },
+        "facing=north": { "model": "block/white_wall" },
+        "facing=east": { "model": "block/aqua_roof" }
+    }
+}

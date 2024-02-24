@@ -1,0 +1,36 @@
+{
+    "variants": {
+        "facing=south": [ 
+			{ "model": "block/painted_wood" },
+			{ "model": "block/painted_wood1" },
+			{ "model": "block/painted_wood2" },
+			{ "model": "block/painted_wood3" },
+			{ "model": "block/painted_wood4" },
+			{ "model": "block/painted_wood5" }
+			],
+        "facing=west":  [ 
+			{ "model": "block/red_wood" },
+			{ "model": "block/red_wood1" },
+			{ "model": "block/red_wood2" },
+			{ "model": "block/red_wood3" },
+			{ "model": "block/red_wood4" },
+			{ "model": "block/red_wood5" }
+			],
+        "facing=north": [ 
+			{ "model": "block/green_wood" },
+			{ "model": "block/green_wood1" },
+			{ "model": "block/green_wood2" },
+			{ "model": "block/green_wood3" },
+			{ "model": "block/green_wood4" },
+			{ "model": "block/green_wood5" }
+			],
+        "facing=east": [ 
+			{ "model": "block/gray_wood" },
+			{ "model": "block/gray_wood1" },
+			{ "model": "block/gray_wood2" },
+			{ "model": "block/gray_wood3" },
+			{ "model": "block/gray_wood4" },
+			{ "model": "block/gray_wood5" }
+			]
+    }
+}

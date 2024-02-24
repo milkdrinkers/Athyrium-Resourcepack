@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=south": [
+			{ "model": "block/gray_roof"},
+			{ "model": "block/gray_roof1"},
+			{ "model": "block/gray_roof2"},
+			{ "model": "block/gray_roof3"}
+		],
+        "facing=west": { "model": "block/thatch"},
+        "facing=north": [
+			{ "model": "block/blue_roof", "weight": 75},
+			{ "model": "block/blue_roof1", "weight": 25}
+		],
+        "facing=east": [
+			{ "model": "block/brown_roof", "weight": 75},
+			{ "model": "block/brown_roof1", "weight": 25}
+		]
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "block/dark_gray_roof"},
+        "facing=west": { "model": "block/basalt"},
+        "facing=north": { "model": "block/old_granite"},
+        "facing=east": { "model": "block/grassy_stone"}
+    }
+}
