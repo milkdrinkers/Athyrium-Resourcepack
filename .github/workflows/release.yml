@@ -71,15 +71,17 @@ jobs:
             # This is the default value for pack_directory when no PackSquash options are defined
             pack_directory = '.'
 
+            allow_mods = ['OptiFine', 'Minecraft Transit Railway 3']
+
             # Set a custom output file path to work with the generated ZIP file
             # without needing to download its artifact in a separate step
-            output_file_path = '/tmp/athyrium.zip'
+            output_file_path = '/tmp/Athyrium-${{ steps.semantic_release_info.outputs.git_tag }}.zip'
 
       # Create release
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
-          files: /tmp/athyrium.zip
+          files: /tmp/Athyrium-${{ steps.semantic_release_info.outputs.git_tag }}.zip
           token: ${{ secrets.GITHUB_TOKEN }}
           tag_name: ${{ steps.semantic_release_info.outputs.git_tag }}
           draft: false
