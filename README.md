@@ -1,4 +1,4 @@
-# Athyrium-Resourcepack
+# Athyrium-Resourcepack 
 
 This is the server resource-pack of the Athyrium Vanilla SMP.
 
