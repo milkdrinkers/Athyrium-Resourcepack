@@ -1,89 +1,110 @@
-name: Create Release
+name: Release
 
 on:
   push:
     branches:
       - 'main'
       - 'master'
-    tags:
-      - '**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  discussions: write
+  pull-requests: write
 
 jobs:
+  tests:
+    uses: ./.github/workflows/tests.yml
   release:
     name: Create Release
-    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+    runs-on: ${{ matrix.os }}
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+      cancel-in-progress: true
+    needs: [tests]
     steps:
-      # Download files and cache Git LFS files to reduce bandwidth usage
+      # Checkout repository and include git LFS files
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
+          ref: ${{ github.head_ref }}
           fetch-depth: 0
           lfs: true
 
-      - name: LFS Create File List
-        run: git lfs ls-files --long | cut -d ' ' -f1 | sort > .lfs-assets-id
-
-      - name: LFS Cache
-        uses: actions/cache@v4
-        with:
-          path: .git/lfs/objects
-          key: ${{ runner.os }}-lfs-${{ hashFiles('.lfs-assets-id') }}
-          restore-keys: |
-            ${{ runner.os }}-lfs-
-
-      - name: LFS Pull
-        run: git lfs pull
-
-      # Uploads files so they can be optimized
-      - name: Compile Temp Archive
-        uses: actions/upload-artifact@v4
-        with:
-          name: temp-resourcepack
-          path: |
-            assets/
-            pack.mcmeta
-            pack.png
-          if-no-files-found: error
+      # Download files from Git LFS and caches them to reduce bandwidth usage
+      - name: Cache and pull LFS files
+        uses: ./.github/actions/lfs
 
       # Makes the semantic tag variable available for use in workflow
-      - name: Get Release Info
-        id: semantic_release_info
-        uses: jossef/action-semantic-release-info@v2.1.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: jveldboom/action-conventional-versioning@v1
+        id: version
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          default-bump: patch
 
       # Update version text in pack.mcmeta
       - name: Update Resourcepack Version String
         uses: jacobtomlinson/gha-find-replace@v3
         with:
           find: "DONT_TOUCH_THIS_STRING"
-          replace: ${{ steps.semantic_release_info.outputs.git_tag }}
+          replace: ${{ steps.version.outputs.version-with-prefix }}
           include: "pack.mcmeta" # Will match the pack.mcmeta file in root
 
       # Create optimized archive for release
       - name: Compile Release Archive
         uses: ComunidadAylas/PackSquash-action@v4
         with:
-          artifact_name: '[UNZIP ME] temp-resourcepack'
           packsquash_version: latest
           options: |
             # Optimize the pack in the root repository directory.
             # This is the default value for pack_directory when no PackSquash options are defined
             pack_directory = '.'
 
-            allow_mods = ['OptiFine', 'Minecraft Transit Railway 3']
-
             # Set a custom output file path to work with the generated ZIP file
             # without needing to download its artifact in a separate step
-            output_file_path = '/tmp/Athyrium-${{ steps.semantic_release_info.outputs.git_tag }}.zip'
+            output_file_path = '/tmp/Alathra-${{ steps.version.outputs.version-with-prefix }}.zip'
+
+      # Generate changelog
+      - name: Changelog
+        uses: ardalanamini/auto-changelog@v4
+        id: changelog
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          commit-types: |
+            feat: New Features
+            fix: Bug Fixes
+            build: Build System & Dependencies
+            perf: Performance Improvements
+            docs: Documentation
+            test: Tests
+            refactor: Refactors
+            chore: Chores
+            ci: CI
+            style: Code Style
+            revert: Reverts
+          default-commit-type: Other Changes
+          release-name: ${{ steps.version.outputs.version-with-prefix }}
+          mention-authors: true
+          mention-new-contributors: true
+          include-compare-link: true
+          include-pr-links: true
+          include-commit-links: true
+          semver: true
+          use-github-autolink: true
 
       # Create release
       - name: Create Release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
-          files: /tmp/Athyrium-${{ steps.semantic_release_info.outputs.git_tag }}.zip
+          files: |
+            /tmp/Alathra-${{ steps.version.outputs.version-with-prefix }}.zip
           token: ${{ secrets.GITHUB_TOKEN }}
-          tag_name: ${{ steps.semantic_release_info.outputs.git_tag }}
+          name: ${{ steps.version.outputs.version }}
+          tag_name: ${{ steps.version.outputs.version-with-prefix }}
           draft: false
           prerelease: false
-          generate_release_notes: true
+          generate_release_notes: false
+          body: ${{ steps.changelog.outputs.changelog }}
