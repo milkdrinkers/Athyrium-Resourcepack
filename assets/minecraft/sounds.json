@@ -206,5 +206,10 @@
                 "name": "gunpowder/musket4"
             }
 		]
+	},
+	"chat.ohman": {
+		"sounds": [
+			"death/ohman"
+		]
 	}
 }
