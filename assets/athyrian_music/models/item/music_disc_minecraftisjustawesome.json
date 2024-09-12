@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "athyrian_music:item/music_disc_minecraftisjustawesome"
+    }
+}
