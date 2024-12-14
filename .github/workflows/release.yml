@@ -65,7 +65,7 @@ jobs:
 
             # Set a custom output file path to work with the generated ZIP file
             # without needing to download its artifact in a separate step
-            output_file_path = '/tmp/Alathra-${{ steps.version.outputs.version-with-prefix }}.zip'
+            output_file_path = '/tmp/Athyrium-${{ steps.version.outputs.version-with-prefix }}.zip'
 
       # Generate changelog
       - name: Changelog
@@ -100,7 +100,7 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: |
-            /tmp/Alathra-${{ steps.version.outputs.version-with-prefix }}.zip
+            /tmp/Athyrium-${{ steps.version.outputs.version-with-prefix }}.zip
           token: ${{ secrets.GITHUB_TOKEN }}
           name: ${{ steps.version.outputs.version }}
           tag_name: ${{ steps.version.outputs.version-with-prefix }}
