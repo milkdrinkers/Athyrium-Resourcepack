@@ -1,0 +1,1 @@
+{"parent":"block/enchanting_table","textures":{"layer0":"block/enchanting_table"},"overrides":[{"predicate":{"custom_model_data":40065},"model":"skill_enchanting"}]}

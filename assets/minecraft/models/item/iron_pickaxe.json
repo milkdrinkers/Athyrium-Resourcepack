@@ -1,0 +1,1 @@
+{"parent":"item/handheld","textures":{"layer0":"item/iron_pickaxe"},"overrides":[{"predicate":{"custom_model_data":40067},"model":"skill_mining"}]}

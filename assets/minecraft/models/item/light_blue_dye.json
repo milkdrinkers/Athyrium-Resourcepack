@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"item/light_blue_dye"},"overrides":[{"predicate":{"custom_model_data":40056},"model":"skills_abilities_btn"},{"predicate":{"custom_model_data":40080},"model":"icon_ability"}]}

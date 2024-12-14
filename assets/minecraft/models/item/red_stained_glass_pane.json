@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"block/red_stained_glass"},"overrides":[{"predicate":{"custom_model_data":40051},"model":"skill_empty_slot7"},{"predicate":{"custom_model_data":40069},"model":"skills_level_locked"}]}

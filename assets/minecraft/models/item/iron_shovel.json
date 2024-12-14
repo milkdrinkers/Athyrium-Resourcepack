@@ -1,0 +1,1 @@
+{"parent":"item/handheld","textures":{"layer0":"item/iron_shovel"},"overrides":[{"predicate":{"custom_model_data":40062},"model":"skill_excavation"}]}

@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"item/paper"},"overrides":[{"predicate":{"custom_model_data":1027},"model":"arrow_next_icon"},{"predicate":{"custom_model_data":1028},"model":"arrow_previous_icon"},{"predicate":{"custom_model_data":1029},"model":"exit_icon"},{"predicate":{"custom_model_data":40058},"model":"skills_leaderboard_btn"}]}

@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"item/gray_dye"},"overrides":[{"predicate":{"custom_model_data":40081},"model":"icon_mana_locked"},{"predicate":{"custom_model_data":40082},"model":"icon_ability_locked"}]}
