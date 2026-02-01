@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "required/cancel_icon",
+    "particle": "required/cancel_icon"
+  }
+}

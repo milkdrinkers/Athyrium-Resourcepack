@@ -1,82 +1,82 @@
 {
-    "music_disc.fallenkingdom": {
-        "sounds": [
-            {
-                "name": "athyrian_music:records/fallenkingdom",
-                "stream": true
-            }
-        ]
-    },
-    "music_disc.revenge": {
-        "sounds": [
-            {
-                "name": "athyrian_music:records/revenge",
-                "stream": true
-            }
-        ]
-    },
-    "music_disc.tnt": {
-        "sounds": [
-            {
-                "name": "athyrian_music:records/tnt",
-                "stream": true
-            }
-        ]
-    },
-    "music_disc.dontmineatnight": {
-        "sounds": [
-            {
-                "name": "athyrian_music:records/dontmineatnight",
-                "stream": true
-            }
-        ]
-    },
-    "music_disc.minecraftisjustawesome": {
-        "sounds": [
-            {
-                "name": "athyrian_music:records/minecraftisjustawesome",
-                "stream": true
-            }
-        ]
-    },
-    "music_disc.diggydiggyhole": {
-        "sounds": [
-            {
-                "name": "athyrian_music:records/diggydiggyhole",
-                "stream": true
-            }
-        ]
-    },
-    "music_disc.diggydiggyholeii": {
-        "sounds": [
-            {
-                "name": "athyrian_music:records/diggydiggyholeii",
-                "stream": true
-            }
-        ]
-    },
-    "music_disc.moonquest": {
-        "sounds": [
-            {
-                "name": "athyrian_music:records/moonquest",
-                "stream": true
-            }
-        ]
-    },
-    "music_disc.screwthenether": {
-        "sounds": [
-            {
-                "name": "athyrian_music:records/screwthenether",
-                "stream": true
-            }
-        ]
-    },
-    "music_disc.howdoicraftthisagain": {
-        "sounds": [
-            {
-                "name": "athyrian_music:records/howdoicraftthisagain",
-                "stream": true
-            }
-        ]
-    }
+  "music_disc.fallenkingdom": {
+    "sounds": [
+      {
+        "name": "athyrian_music:records/fallenkingdom",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.revenge": {
+    "sounds": [
+      {
+        "name": "athyrian_music:records/revenge",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.tnt": {
+    "sounds": [
+      {
+        "name": "athyrian_music:records/tnt",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.dontmineatnight": {
+    "sounds": [
+      {
+        "name": "athyrian_music:records/dontmineatnight",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.minecraftisjustawesome": {
+    "sounds": [
+      {
+        "name": "athyrian_music:records/minecraftisjustawesome",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.diggydiggyhole": {
+    "sounds": [
+      {
+        "name": "athyrian_music:records/diggydiggyhole",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.diggydiggyholeii": {
+    "sounds": [
+      {
+        "name": "athyrian_music:records/diggydiggyholeii",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.moonquest": {
+    "sounds": [
+      {
+        "name": "athyrian_music:records/moonquest",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.screwthenether": {
+    "sounds": [
+      {
+        "name": "athyrian_music:records/screwthenether",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.howdoicraftthisagain": {
+    "sounds": [
+      {
+        "name": "athyrian_music:records/howdoicraftthisagain",
+        "stream": true
+      }
+    ]
+  }
 }

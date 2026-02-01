@@ -1,0 +1,197 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "aura_gui:item/leaderboard_menu.png",
+      "height": 256,
+      "ascent": 48,
+      "chars": [
+        "ꐔ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "required/recipe_showcase.png",
+      "height": 164,
+      "ascent": 40,
+      "chars": [
+        "ꐛ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "required/logo.png",
+      "height": 36,
+      "ascent": 20,
+      "chars": [
+        "ꐙ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "required/ui/brewing_stand_recipe_builder.png",
+      "height": 256,
+      "ascent": 13,
+      "chars": [
+        "ꐒ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "required/ui/menu_items_search.png",
+      "height": 256,
+      "ascent": 37,
+      "chars": [
+        "ꐑ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "aura_gui:item/stats_menu.png",
+      "height": 256,
+      "ascent": 48,
+      "chars": [
+        "ꐓ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "required/ui/menu_items.png",
+      "height": 256,
+      "ascent": 37,
+      "chars": [
+        "ꐐ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "aura_gui:item/book_all_squares.png",
+      "height": 256,
+      "ascent": 48,
+      "chars": [
+        "ꐷ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "aura_gui:item/stats_regeneration.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "ꐖ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "aura_gui:item/stats_crit_chance.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "ꐟ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "aura_gui:item/stats_toughness.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "ꐝ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "aura_gui:item/stats_luck.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "ꐚ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "aura_gui:item/stats_strength.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "ꐘ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "aura_gui:item/xp_bar.png",
+      "height": 7,
+      "ascent": 6,
+      "chars": [
+        "ꐸ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "aura_gui:item/stats_speed.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "ꐗ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "aura_gui:item/stat_hearts.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "ꐕ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "aura_gui:item/progress_menu.png",
+      "height": 256,
+      "ascent": 48,
+      "chars": [
+        "ꐒ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "aura_gui:item/abilities_menu.png",
+      "height": 256,
+      "ascent": 48,
+      "chars": [
+        "ꐑ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "aura_gui:item/skills_menu_book.png",
+      "height": 256,
+      "ascent": 48,
+      "chars": [
+        "ꐐ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "aura_gui:item/stats_wisdom.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "ꐞ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "aura_gui:item/stats_crit_damage.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "ꐶ"
+      ]
+    },
+    {
+      "type": "reference",
+      "id": "nexo:shift"
+    }
+  ]
+}
