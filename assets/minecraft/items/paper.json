@@ -1,0 +1,45 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 1000.0,
+        "model": {
+          "type": "model",
+          "model": "next_page_icon",
+          "tints": []
+        }
+      },
+      {
+        "threshold": 1001.0,
+        "model": {
+          "type": "model",
+          "model": "previous_page_icon",
+          "tints": []
+        }
+      },
+      {
+        "threshold": 1002.0,
+        "model": {
+          "type": "model",
+          "model": "cancel_icon",
+          "tints": []
+        }
+      },
+      {
+        "threshold": 1003.0,
+        "model": {
+          "type": "model",
+          "model": "directory_icon",
+          "tints": []
+        }
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/paper",
+      "tints": []
+    }
+  }
+}

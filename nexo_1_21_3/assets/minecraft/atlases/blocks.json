@@ -1,0 +1,204 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "item/crossbow_standby"
+    },
+    {
+      "type": "single",
+      "resource": "item/music_disc_11"
+    },
+    {
+      "type": "single",
+      "resource": "athyrian_music:item/music_disc_diggydiggyhole"
+    },
+    {
+      "type": "single",
+      "resource": "athyrian_music:item/music_disc_diggydiggyholeii"
+    },
+    {
+      "type": "single",
+      "resource": "athyrian_music:item/music_disc_dontmineatnight"
+    },
+    {
+      "type": "single",
+      "resource": "athyrian_music:item/music_disc_fallenkingdom"
+    },
+    {
+      "type": "single",
+      "resource": "athyrian_music:item/music_disc_howdoicraftthisagain"
+    },
+    {
+      "type": "single",
+      "resource": "athyrian_music:item/music_disc_minecraftisjustawesome"
+    },
+    {
+      "type": "single",
+      "resource": "athyrian_music:item/music_disc_moonquest"
+    },
+    {
+      "type": "single",
+      "resource": "athyrian_music:item/music_disc_revenge"
+    },
+    {
+      "type": "single",
+      "resource": "athyrian_music:item/music_disc_screwthenether"
+    },
+    {
+      "type": "single",
+      "resource": "athyrian_music:item/music_disc_tnt"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_armor/forest_helmet"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/arm_chair"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/arm_chair_dyeable"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/coffee_table"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/coffee_table_dyeable"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/connectable/connectable"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/connectable/connectable_dyeable"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/connectable/connectable_inner"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/connectable/connectable_inner_dyeable"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/connectable/connectable_left"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/connectable/connectable_left_dyeable"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/connectable/connectable_outer"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/connectable/connectable_outer_dyeable"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/connectable/connectable_straight"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/connectable/connectable_straight_dyeable"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/double_bed"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/double_bed_dyeable"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/end_table"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/large_wooden_door"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/sofa"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/sofa_dyeable"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/storage_chest"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/table_lamp"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_furniture/table_lamp_dyeable"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_tools/forest_axe"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_tools/forest_hoe"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_tools/forest_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_tools/forest_shield"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_tools/forest_shovel"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_tools/forest_sword"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:item/nexo_tools/forest_trident"
+    },
+    {
+      "type": "single",
+      "resource": "item/paper"
+    },
+    {
+      "type": "single",
+      "resource": "required/arrow_next_icon"
+    },
+    {
+      "type": "single",
+      "resource": "required/arrow_previous_icon"
+    },
+    {
+      "type": "single",
+      "resource": "required/cancel_icon"
+    },
+    {
+      "type": "single",
+      "resource": "required/directory_icon"
+    },
+    {
+      "type": "single",
+      "resource": "required/next_page_icon"
+    },
+    {
+      "type": "single",
+      "resource": "required/previous_page_icon"
+    }
+  ]
+}

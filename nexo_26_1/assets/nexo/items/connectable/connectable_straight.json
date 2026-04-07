@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "model",
+    "model": "nexo:item/nexo_furniture/connectable/connectable_straight",
+    "tints": []
+  }
+}

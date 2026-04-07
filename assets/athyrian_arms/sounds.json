@@ -1,0 +1,18 @@
+{
+	"sound.gunpowder": {
+		"sounds": [
+			{
+				"name": "gunpowder/musket1"
+			},
+			{
+				"name": "gunpowder/musket2"
+			},
+			{
+				"name": "gunpowder/musket3"
+			},
+			{
+				"name": "gunpowder/musket4"
+			}
+		]
+	}
+}

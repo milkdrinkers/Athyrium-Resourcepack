@@ -1,0 +1,93 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 1001.0,
+        "model": {
+          "type": "model",
+          "model": "music_disc_fallenkingdom",
+          "tints": []
+        }
+      },
+      {
+        "threshold": 1002.0,
+        "model": {
+          "type": "model",
+          "model": "music_disc_revenge",
+          "tints": []
+        }
+      },
+      {
+        "threshold": 1003.0,
+        "model": {
+          "type": "model",
+          "model": "music_disc_tnt",
+          "tints": []
+        }
+      },
+      {
+        "threshold": 1004.0,
+        "model": {
+          "type": "model",
+          "model": "music_disc_dontmineatnight",
+          "tints": []
+        }
+      },
+      {
+        "threshold": 1005.0,
+        "model": {
+          "type": "model",
+          "model": "music_disc_minecraftisjustawesome",
+          "tints": []
+        }
+      },
+      {
+        "threshold": 1006.0,
+        "model": {
+          "type": "model",
+          "model": "music_disc_diggydiggyhole",
+          "tints": []
+        }
+      },
+      {
+        "threshold": 1007.0,
+        "model": {
+          "type": "model",
+          "model": "music_disc_diggydiggyholeii",
+          "tints": []
+        }
+      },
+      {
+        "threshold": 1008.0,
+        "model": {
+          "type": "model",
+          "model": "music_disc_moonquest",
+          "tints": []
+        }
+      },
+      {
+        "threshold": 1009.0,
+        "model": {
+          "type": "model",
+          "model": "music_disc_screwthenether",
+          "tints": []
+        }
+      },
+      {
+        "threshold": 1010.0,
+        "model": {
+          "type": "model",
+          "model": "music_disc_howdoicraftthisagain",
+          "tints": []
+        }
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/music_disc_11",
+      "tints": []
+    }
+  }
+}

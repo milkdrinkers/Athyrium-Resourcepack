@@ -1,1 +1,7 @@
-{"parent":"item/generated","textures":{"layer0":"athyrian_music:item/music_disc_tnt"}}
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "athyrian_music:item/music_disc_tnt",
+    "particle": "athyrian_music:item/music_disc_tnt"
+  }
+}

@@ -1,0 +1,3968 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "block/birch_planks"
+    },
+    {
+      "type": "single",
+      "resource": "block/glow_item_frame"
+    },
+    {
+      "type": "single",
+      "resource": "block/item_frame"
+    },
+    {
+      "type": "single",
+      "resource": "block/polished_deepslate"
+    },
+    {
+      "type": "single",
+      "resource": "block/mossy_cobblestone"
+    },
+    {
+      "type": "single",
+      "resource": "block/blue_concrete"
+    },
+    {
+      "type": "single",
+      "resource": "block/diorite"
+    },
+    {
+      "type": "single",
+      "resource": "block/oxidized_chiseled_copper"
+    },
+    {
+      "type": "single",
+      "resource": "block/black_concrete"
+    },
+    {
+      "type": "single",
+      "resource": "block/polished_andesite"
+    },
+    {
+      "type": "single",
+      "resource": "block/crafter_east"
+    },
+    {
+      "type": "single",
+      "resource": "block/crafter_south"
+    },
+    {
+      "type": "single",
+      "resource": "block/crafter_north"
+    },
+    {
+      "type": "single",
+      "resource": "block/crafter_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/crafter_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/crafter_west"
+    },
+    {
+      "type": "single",
+      "resource": "block/crafter_south_triggered"
+    },
+    {
+      "type": "single",
+      "resource": "block/crafter_east_triggered"
+    },
+    {
+      "type": "single",
+      "resource": "block/crafter_west_triggered"
+    },
+    {
+      "type": "single",
+      "resource": "block/crafter_top_triggered"
+    },
+    {
+      "type": "single",
+      "resource": "block/crafter_north_crafting"
+    },
+    {
+      "type": "single",
+      "resource": "block/crafter_top_crafting"
+    },
+    {
+      "type": "single",
+      "resource": "block/crafter_west_crafting"
+    },
+    {
+      "type": "single",
+      "resource": "block/crafter_east_crafting"
+    },
+    {
+      "type": "single",
+      "resource": "block/deepslate_copper_ore"
+    },
+    {
+      "type": "single",
+      "resource": "block/chiseled_deepslate"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_mangrove_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/black_concrete_powder"
+    },
+    {
+      "type": "single",
+      "resource": "block/pink_tulip"
+    },
+    {
+      "type": "single",
+      "resource": "block/magenta_concrete_powder"
+    },
+    {
+      "type": "single",
+      "resource": "block/blue_candle"
+    },
+    {
+      "type": "single",
+      "resource": "block/blue_candle_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/beacon"
+    },
+    {
+      "type": "single",
+      "resource": "block/glass"
+    },
+    {
+      "type": "single",
+      "resource": "block/obsidian"
+    },
+    {
+      "type": "single",
+      "resource": "block/carved_pumpkin"
+    },
+    {
+      "type": "single",
+      "resource": "block/pumpkin_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/pumpkin_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/chiseled_polished_blackstone"
+    },
+    {
+      "type": "single",
+      "resource": "block/cake_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/cake_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/green_candle"
+    },
+    {
+      "type": "single",
+      "resource": "block/cake_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/green_candle_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/fern"
+    },
+    {
+      "type": "single",
+      "resource": "block/cyan_candle"
+    },
+    {
+      "type": "single",
+      "resource": "block/cyan_candle_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/glowstone"
+    },
+    {
+      "type": "single",
+      "resource": "block/spruce_planks"
+    },
+    {
+      "type": "single",
+      "resource": "block/candle"
+    },
+    {
+      "type": "single",
+      "resource": "block/candle_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/chiseled_tuff"
+    },
+    {
+      "type": "single",
+      "resource": "block/chiseled_tuff_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/nether_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/turtle_egg"
+    },
+    {
+      "type": "single",
+      "resource": "block/turtle_egg_slightly_cracked"
+    },
+    {
+      "type": "single",
+      "resource": "block/turtle_egg_very_cracked"
+    },
+    {
+      "type": "single",
+      "resource": "block/warped_roots"
+    },
+    {
+      "type": "single",
+      "resource": "block/warped_fungus"
+    },
+    {
+      "type": "single",
+      "resource": "block/melon_stem"
+    },
+    {
+      "type": "single",
+      "resource": "block/light_gray_candle"
+    },
+    {
+      "type": "single",
+      "resource": "block/light_gray_candle_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/oxidized_cut_copper"
+    },
+    {
+      "type": "single",
+      "resource": "block/orange_tulip"
+    },
+    {
+      "type": "single",
+      "resource": "block/muddy_mangrove_roots_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/muddy_mangrove_roots_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/poppy"
+    },
+    {
+      "type": "single",
+      "resource": "block/bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/white_wool"
+    },
+    {
+      "type": "single",
+      "resource": "block/deepslate_tiles"
+    },
+    {
+      "type": "single",
+      "resource": "block/jukebox_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/jukebox_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/crimson_door_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/crimson_door_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/lodestone_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/lodestone_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/amethyst_cluster"
+    },
+    {
+      "type": "single",
+      "resource": "block/sandstone_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/resin_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/gold_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/dead_horn_coral"
+    },
+    {
+      "type": "single",
+      "resource": "block/lapis_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/jungle_planks"
+    },
+    {
+      "type": "single",
+      "resource": "block/acacia_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/acacia_door_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/acacia_door_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/jack_o_lantern"
+    },
+    {
+      "type": "single",
+      "resource": "block/stone_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/warped_trapdoor"
+    },
+    {
+      "type": "single",
+      "resource": "block/mangrove_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/mangrove_log_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/magenta_stained_glass"
+    },
+    {
+      "type": "single",
+      "resource": "block/white_concrete_powder"
+    },
+    {
+      "type": "single",
+      "resource": "block/green_wool"
+    },
+    {
+      "type": "single",
+      "resource": "block/yellow_glazed_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/chiseled_red_sandstone"
+    },
+    {
+      "type": "single",
+      "resource": "block/red_sandstone_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/black_glazed_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/creaking_heart_top_awake"
+    },
+    {
+      "type": "single",
+      "resource": "block/creaking_heart_awake"
+    },
+    {
+      "type": "single",
+      "resource": "block/creaking_heart_dormant"
+    },
+    {
+      "type": "single",
+      "resource": "block/creaking_heart_top_dormant"
+    },
+    {
+      "type": "single",
+      "resource": "block/creaking_heart"
+    },
+    {
+      "type": "single",
+      "resource": "block/creaking_heart_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/tuff"
+    },
+    {
+      "type": "single",
+      "resource": "block/birch_door_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/birch_door_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/chain_command_block_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/chain_command_block_back"
+    },
+    {
+      "type": "single",
+      "resource": "block/chain_command_block_front"
+    },
+    {
+      "type": "single",
+      "resource": "block/chain_command_block_conditional"
+    },
+    {
+      "type": "single",
+      "resource": "block/basalt_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/basalt_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/brain_coral_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/closed_eyeblossom"
+    },
+    {
+      "type": "single",
+      "resource": "block/melon_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/melon_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/spruce_sapling"
+    },
+    {
+      "type": "single",
+      "resource": "block/target_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/target_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/weathered_copper_lantern"
+    },
+    {
+      "type": "single",
+      "resource": "block/torch"
+    },
+    {
+      "type": "single",
+      "resource": "block/sculk"
+    },
+    {
+      "type": "single",
+      "resource": "block/piston_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/piston_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/piston_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/piston_inner"
+    },
+    {
+      "type": "single",
+      "resource": "block/cave_vines_plant"
+    },
+    {
+      "type": "single",
+      "resource": "block/cave_vines_plant_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/detector_rail"
+    },
+    {
+      "type": "single",
+      "resource": "block/detector_rail_on"
+    },
+    {
+      "type": "single",
+      "resource": "block/oxidized_copper"
+    },
+    {
+      "type": "single",
+      "resource": "block/tube_coral"
+    },
+    {
+      "type": "single",
+      "resource": "block/cobblestone"
+    },
+    {
+      "type": "single",
+      "resource": "block/prismarine"
+    },
+    {
+      "type": "single",
+      "resource": "block/stone"
+    },
+    {
+      "type": "single",
+      "resource": "block/white_concrete"
+    },
+    {
+      "type": "single",
+      "resource": "block/beehive_end"
+    },
+    {
+      "type": "single",
+      "resource": "block/beehive_front"
+    },
+    {
+      "type": "single",
+      "resource": "block/beehive_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/beehive_front_honey"
+    },
+    {
+      "type": "single",
+      "resource": "block/blue_orchid"
+    },
+    {
+      "type": "single",
+      "resource": "block/oxidized_copper_trapdoor"
+    },
+    {
+      "type": "single",
+      "resource": "block/nether_quartz_ore"
+    },
+    {
+      "type": "single",
+      "resource": "block/oxidized_copper_lantern"
+    },
+    {
+      "type": "single",
+      "resource": "block/warped_stem"
+    },
+    {
+      "type": "single",
+      "resource": "block/polished_diorite"
+    },
+    {
+      "type": "single",
+      "resource": "block/magenta_wool"
+    },
+    {
+      "type": "single",
+      "resource": "block/lime_candle"
+    },
+    {
+      "type": "single",
+      "resource": "block/lime_candle_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/exposed_copper_door_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/exposed_copper_door_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/quartz_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/iron_ore"
+    },
+    {
+      "type": "single",
+      "resource": "block/tuff_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/oak_planks"
+    },
+    {
+      "type": "single",
+      "resource": "block/acacia_trapdoor"
+    },
+    {
+      "type": "single",
+      "resource": "block/cobbled_deepslate"
+    },
+    {
+      "type": "single",
+      "resource": "block/fletching_table_front"
+    },
+    {
+      "type": "single",
+      "resource": "block/fletching_table_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/fletching_table_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/raw_gold_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/azalea_leaves"
+    },
+    {
+      "type": "single",
+      "resource": "block/cornflower"
+    },
+    {
+      "type": "single",
+      "resource": "block/tnt_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/tnt_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/tnt_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/short_dry_grass"
+    },
+    {
+      "type": "single",
+      "resource": "block/raw_copper_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/brown_stained_glass"
+    },
+    {
+      "type": "single",
+      "resource": "block/weathered_copper_bulb"
+    },
+    {
+      "type": "single",
+      "resource": "block/weathered_copper_bulb_powered"
+    },
+    {
+      "type": "single",
+      "resource": "block/weathered_copper_bulb_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/weathered_copper_bulb_lit_powered"
+    },
+    {
+      "type": "single",
+      "resource": "block/exposed_copper_trapdoor"
+    },
+    {
+      "type": "single",
+      "resource": "block/warped_planks"
+    },
+    {
+      "type": "single",
+      "resource": "block/cut_copper"
+    },
+    {
+      "type": "single",
+      "resource": "block/iron_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/red_concrete_powder"
+    },
+    {
+      "type": "single",
+      "resource": "block/red_sandstone"
+    },
+    {
+      "type": "single",
+      "resource": "block/red_sandstone_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/cut_sandstone"
+    },
+    {
+      "type": "single",
+      "resource": "block/dead_brain_coral_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/lectern_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/lectern_sides"
+    },
+    {
+      "type": "single",
+      "resource": "block/lectern_front"
+    },
+    {
+      "type": "single",
+      "resource": "block/lectern_base"
+    },
+    {
+      "type": "single",
+      "resource": "block/green_glazed_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/cake_inner"
+    },
+    {
+      "type": "single",
+      "resource": "block/hanging_roots"
+    },
+    {
+      "type": "single",
+      "resource": "block/end_stone_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/crimson_nylium_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/netherrack"
+    },
+    {
+      "type": "single",
+      "resource": "block/crimson_nylium"
+    },
+    {
+      "type": "single",
+      "resource": "block/sugar_cane"
+    },
+    {
+      "type": "single",
+      "resource": "block/cherry_door_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/cherry_door_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_oak_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/copper_grate"
+    },
+    {
+      "type": "single",
+      "resource": "block/acacia_planks"
+    },
+    {
+      "type": "single",
+      "resource": "block/acacia_sapling"
+    },
+    {
+      "type": "single",
+      "resource": "block/pink_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/weathered_chiseled_copper"
+    },
+    {
+      "type": "single",
+      "resource": "block/black_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/exposed_copper_chain"
+    },
+    {
+      "type": "single",
+      "resource": "block/blue_wool"
+    },
+    {
+      "type": "single",
+      "resource": "block/gray_wool"
+    },
+    {
+      "type": "single",
+      "resource": "block/nether_portal"
+    },
+    {
+      "type": "single",
+      "resource": "block/bush"
+    },
+    {
+      "type": "single",
+      "resource": "block/crimson_planks"
+    },
+    {
+      "type": "single",
+      "resource": "block/light_gray_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/azure_bluet"
+    },
+    {
+      "type": "single",
+      "resource": "block/copper_chain"
+    },
+    {
+      "type": "single",
+      "resource": "block/cactus_flower"
+    },
+    {
+      "type": "single",
+      "resource": "block/cherry_sapling"
+    },
+    {
+      "type": "single",
+      "resource": "block/weathered_copper_trapdoor"
+    },
+    {
+      "type": "single",
+      "resource": "block/end_stone"
+    },
+    {
+      "type": "single",
+      "resource": "block/bamboo_trapdoor"
+    },
+    {
+      "type": "single",
+      "resource": "block/black_candle"
+    },
+    {
+      "type": "single",
+      "resource": "block/black_candle_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/pink_glazed_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/jungle_sapling"
+    },
+    {
+      "type": "single",
+      "resource": "block/cherry_trapdoor"
+    },
+    {
+      "type": "single",
+      "resource": "block/rooted_dirt"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_spruce_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_spruce_log_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/lilac_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/lilac_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/blue_glazed_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/dead_bush"
+    },
+    {
+      "type": "single",
+      "resource": "block/red_glazed_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/purple_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/polished_granite"
+    },
+    {
+      "type": "single",
+      "resource": "block/ladder"
+    },
+    {
+      "type": "single",
+      "resource": "block/dark_oak_planks"
+    },
+    {
+      "type": "single",
+      "resource": "block/mossy_stone_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/exposed_chiseled_copper"
+    },
+    {
+      "type": "single",
+      "resource": "block/snow"
+    },
+    {
+      "type": "single",
+      "resource": "block/open_eyeblossom"
+    },
+    {
+      "type": "single",
+      "resource": "block/open_eyeblossom_emissive"
+    },
+    {
+      "type": "single",
+      "resource": "block/lever"
+    },
+    {
+      "type": "single",
+      "resource": "block/brown_mushroom"
+    },
+    {
+      "type": "single",
+      "resource": "block/cauldron_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/cauldron_inner"
+    },
+    {
+      "type": "single",
+      "resource": "block/cauldron_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/water_still"
+    },
+    {
+      "type": "single",
+      "resource": "block/cauldron_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/exposed_copper_lantern"
+    },
+    {
+      "type": "single",
+      "resource": "block/pink_concrete"
+    },
+    {
+      "type": "single",
+      "resource": "block/light_blue_stained_glass"
+    },
+    {
+      "type": "single",
+      "resource": "block/magenta_candle"
+    },
+    {
+      "type": "single",
+      "resource": "block/magenta_candle_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/cyan_wool"
+    },
+    {
+      "type": "single",
+      "resource": "block/gray_concrete_powder"
+    },
+    {
+      "type": "single",
+      "resource": "block/dark_prismarine"
+    },
+    {
+      "type": "single",
+      "resource": "block/brain_coral_fan"
+    },
+    {
+      "type": "single",
+      "resource": "block/dead_horn_coral_fan"
+    },
+    {
+      "type": "single",
+      "resource": "block/weathered_copper"
+    },
+    {
+      "type": "single",
+      "resource": "block/lime_stained_glass"
+    },
+    {
+      "type": "single",
+      "resource": "block/jungle_leaves"
+    },
+    {
+      "type": "single",
+      "resource": "block/purpur_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/pitcher_crop_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/pitcher_crop_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/pitcher_crop_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/pitcher_crop_bottom_stage_1"
+    },
+    {
+      "type": "single",
+      "resource": "block/pitcher_crop_bottom_stage_2"
+    },
+    {
+      "type": "single",
+      "resource": "block/pitcher_crop_bottom_stage_3"
+    },
+    {
+      "type": "single",
+      "resource": "block/pitcher_crop_top_stage_3"
+    },
+    {
+      "type": "single",
+      "resource": "block/pitcher_crop_bottom_stage_4"
+    },
+    {
+      "type": "single",
+      "resource": "block/pitcher_crop_top_stage_4"
+    },
+    {
+      "type": "single",
+      "resource": "block/horn_coral_fan"
+    },
+    {
+      "type": "single",
+      "resource": "block/white_glazed_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_dark_oak_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/daylight_detector_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/daylight_detector_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/daylight_detector_inverted_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/birch_sapling"
+    },
+    {
+      "type": "single",
+      "resource": "block/oak_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/mangrove_propagule"
+    },
+    {
+      "type": "single",
+      "resource": "block/mangrove_propagule_hanging"
+    },
+    {
+      "type": "single",
+      "resource": "block/grass_block_side_overlay"
+    },
+    {
+      "type": "single",
+      "resource": "block/grass_block_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/dirt"
+    },
+    {
+      "type": "single",
+      "resource": "block/grass_block_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/grass_block_snow"
+    },
+    {
+      "type": "single",
+      "resource": "block/polished_blackstone"
+    },
+    {
+      "type": "single",
+      "resource": "block/cut_red_sandstone"
+    },
+    {
+      "type": "single",
+      "resource": "block/dark_oak_door_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/dark_oak_door_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/copper_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/exposed_lightning_rod"
+    },
+    {
+      "type": "single",
+      "resource": "block/lightning_rod_on"
+    },
+    {
+      "type": "single",
+      "resource": "block/sculk_sensor_tendril_active"
+    },
+    {
+      "type": "single",
+      "resource": "block/sculk_sensor_tendril_inactive"
+    },
+    {
+      "type": "single",
+      "resource": "block/cherry_planks"
+    },
+    {
+      "type": "single",
+      "resource": "block/pale_oak_planks"
+    },
+    {
+      "type": "single",
+      "resource": "block/oxidized_copper_bulb"
+    },
+    {
+      "type": "single",
+      "resource": "block/oxidized_copper_bulb_powered"
+    },
+    {
+      "type": "single",
+      "resource": "block/oxidized_copper_bulb_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/oxidized_copper_bulb_lit_powered"
+    },
+    {
+      "type": "single",
+      "resource": "block/dark_oak_leaves"
+    },
+    {
+      "type": "single",
+      "resource": "block/sea_lantern"
+    },
+    {
+      "type": "single",
+      "resource": "block/oxeye_daisy"
+    },
+    {
+      "type": "single",
+      "resource": "block/dandelion"
+    },
+    {
+      "type": "single",
+      "resource": "block/lava_still"
+    },
+    {
+      "type": "single",
+      "resource": "block/dripstone_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/suspicious_sand_0"
+    },
+    {
+      "type": "single",
+      "resource": "block/suspicious_sand_1"
+    },
+    {
+      "type": "single",
+      "resource": "block/suspicious_sand_2"
+    },
+    {
+      "type": "single",
+      "resource": "block/suspicious_sand_3"
+    },
+    {
+      "type": "single",
+      "resource": "block/quartz_block_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/dead_brain_coral_fan"
+    },
+    {
+      "type": "single",
+      "resource": "block/cherry_leaves"
+    },
+    {
+      "type": "single",
+      "resource": "block/cactus_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/cactus_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/cactus_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/weathered_cut_copper"
+    },
+    {
+      "type": "single",
+      "resource": "block/exposed_copper"
+    },
+    {
+      "type": "single",
+      "resource": "block/red_wool"
+    },
+    {
+      "type": "single",
+      "resource": "block/bamboo_fence_gate"
+    },
+    {
+      "type": "single",
+      "resource": "block/oak_door_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/oak_door_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/cracked_polished_blackstone_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/spawner"
+    },
+    {
+      "type": "single",
+      "resource": "block/copper_lantern"
+    },
+    {
+      "type": "single",
+      "resource": "block/jigsaw_lock"
+    },
+    {
+      "type": "single",
+      "resource": "block/jigsaw_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/jigsaw_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/jigsaw_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/mangrove_planks"
+    },
+    {
+      "type": "single",
+      "resource": "block/tube_coral_fan"
+    },
+    {
+      "type": "single",
+      "resource": "block/brain_coral"
+    },
+    {
+      "type": "single",
+      "resource": "block/polished_tuff"
+    },
+    {
+      "type": "single",
+      "resource": "block/green_concrete_powder"
+    },
+    {
+      "type": "single",
+      "resource": "block/warped_nylium"
+    },
+    {
+      "type": "single",
+      "resource": "block/warped_nylium_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/twisting_vines"
+    },
+    {
+      "type": "single",
+      "resource": "block/nether_wart_stage0"
+    },
+    {
+      "type": "single",
+      "resource": "block/nether_wart_stage1"
+    },
+    {
+      "type": "single",
+      "resource": "block/nether_wart_stage2"
+    },
+    {
+      "type": "single",
+      "resource": "block/pumpkin_stem"
+    },
+    {
+      "type": "single",
+      "resource": "block/red_candle"
+    },
+    {
+      "type": "single",
+      "resource": "block/red_candle_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/horn_coral_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/mycelium_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/mycelium_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/light_blue_concrete"
+    },
+    {
+      "type": "single",
+      "resource": "block/lime_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/light_blue_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/small_amethyst_bud"
+    },
+    {
+      "type": "single",
+      "resource": "block/netherite_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/structure_block_corner"
+    },
+    {
+      "type": "single",
+      "resource": "block/structure_block_data"
+    },
+    {
+      "type": "single",
+      "resource": "block/structure_block_load"
+    },
+    {
+      "type": "single",
+      "resource": "block/structure_block_save"
+    },
+    {
+      "type": "single",
+      "resource": "block/deepslate"
+    },
+    {
+      "type": "single",
+      "resource": "block/deepslate_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/spore_blossom"
+    },
+    {
+      "type": "single",
+      "resource": "block/spore_blossom_base"
+    },
+    {
+      "type": "single",
+      "resource": "block/honeycomb_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/pink_wool"
+    },
+    {
+      "type": "single",
+      "resource": "block/quartz_block_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/quartz_block_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/prismarine_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/kelp_plant"
+    },
+    {
+      "type": "single",
+      "resource": "block/cartography_table_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/cartography_table_side1"
+    },
+    {
+      "type": "single",
+      "resource": "block/cartography_table_side3"
+    },
+    {
+      "type": "single",
+      "resource": "block/cartography_table_side2"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_oak_log_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/pale_oak_door_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/pale_oak_door_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/birch_leaves"
+    },
+    {
+      "type": "single",
+      "resource": "block/bubble_coral_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/fire_coral_fan"
+    },
+    {
+      "type": "single",
+      "resource": "block/red_nether_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_kelp_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_kelp_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_kelp_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/lantern"
+    },
+    {
+      "type": "single",
+      "resource": "block/smooth_stone"
+    },
+    {
+      "type": "single",
+      "resource": "block/smooth_stone_slab_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_jungle_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/amethyst_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/test_instance_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/chipped_anvil_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/red_mushroom"
+    },
+    {
+      "type": "single",
+      "resource": "block/nether_sprouts"
+    },
+    {
+      "type": "single",
+      "resource": "block/weathered_copper_chain"
+    },
+    {
+      "type": "single",
+      "resource": "block/lime_wool"
+    },
+    {
+      "type": "single",
+      "resource": "block/bubble_coral_fan"
+    },
+    {
+      "type": "single",
+      "resource": "block/chorus_flower"
+    },
+    {
+      "type": "single",
+      "resource": "block/chorus_flower_dead"
+    },
+    {
+      "type": "single",
+      "resource": "block/sandstone"
+    },
+    {
+      "type": "single",
+      "resource": "block/sandstone_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/cherry_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/big_dripleaf_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/big_dripleaf_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/big_dripleaf_stem"
+    },
+    {
+      "type": "single",
+      "resource": "block/big_dripleaf_tip"
+    },
+    {
+      "type": "single",
+      "resource": "block/brown_glazed_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/pale_oak_trapdoor"
+    },
+    {
+      "type": "single",
+      "resource": "block/wheat_stage0"
+    },
+    {
+      "type": "single",
+      "resource": "block/wheat_stage1"
+    },
+    {
+      "type": "single",
+      "resource": "block/wheat_stage2"
+    },
+    {
+      "type": "single",
+      "resource": "block/wheat_stage3"
+    },
+    {
+      "type": "single",
+      "resource": "block/wheat_stage4"
+    },
+    {
+      "type": "single",
+      "resource": "block/wheat_stage5"
+    },
+    {
+      "type": "single",
+      "resource": "block/wheat_stage6"
+    },
+    {
+      "type": "single",
+      "resource": "block/wheat_stage7"
+    },
+    {
+      "type": "single",
+      "resource": "block/white_tulip"
+    },
+    {
+      "type": "single",
+      "resource": "block/crimson_stem"
+    },
+    {
+      "type": "single",
+      "resource": "block/lily_pad"
+    },
+    {
+      "type": "single",
+      "resource": "block/red_tulip"
+    },
+    {
+      "type": "single",
+      "resource": "block/potatoes_stage0"
+    },
+    {
+      "type": "single",
+      "resource": "block/potatoes_stage1"
+    },
+    {
+      "type": "single",
+      "resource": "block/potatoes_stage2"
+    },
+    {
+      "type": "single",
+      "resource": "block/potatoes_stage3"
+    },
+    {
+      "type": "single",
+      "resource": "block/sponge"
+    },
+    {
+      "type": "single",
+      "resource": "block/packed_ice"
+    },
+    {
+      "type": "single",
+      "resource": "block/crimson_trapdoor"
+    },
+    {
+      "type": "single",
+      "resource": "block/podzol_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/podzol_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/andesite"
+    },
+    {
+      "type": "single",
+      "resource": "block/bamboo_planks"
+    },
+    {
+      "type": "single",
+      "resource": "block/light_gray_concrete"
+    },
+    {
+      "type": "single",
+      "resource": "block/blue_ice"
+    },
+    {
+      "type": "single",
+      "resource": "block/dead_tube_coral_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/iron_trapdoor"
+    },
+    {
+      "type": "single",
+      "resource": "block/magma"
+    },
+    {
+      "type": "single",
+      "resource": "block/cyan_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/iron_door_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/iron_door_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/oxidized_copper_door_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/oxidized_copper_door_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_warped_stem_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_warped_stem"
+    },
+    {
+      "type": "single",
+      "resource": "block/jungle_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/jungle_log_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/oxidized_lightning_rod"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_pale_oak_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_pale_oak_log_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/green_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/redstone_torch_off"
+    },
+    {
+      "type": "single",
+      "resource": "block/redstone_torch"
+    },
+    {
+      "type": "single",
+      "resource": "block/yellow_candle"
+    },
+    {
+      "type": "single",
+      "resource": "block/yellow_candle_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/lapis_ore"
+    },
+    {
+      "type": "single",
+      "resource": "block/dragon_egg"
+    },
+    {
+      "type": "single",
+      "resource": "block/brown_candle"
+    },
+    {
+      "type": "single",
+      "resource": "block/brown_candle_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/resin_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/deepslate_redstone_ore"
+    },
+    {
+      "type": "single",
+      "resource": "block/light_blue_concrete_powder"
+    },
+    {
+      "type": "single",
+      "resource": "block/crimson_stem_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/oak_sapling"
+    },
+    {
+      "type": "single",
+      "resource": "block/jungle_door_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/jungle_door_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/jungle_trapdoor"
+    },
+    {
+      "type": "single",
+      "resource": "block/pink_concrete_powder"
+    },
+    {
+      "type": "single",
+      "resource": "block/weathered_copper_grate"
+    },
+    {
+      "type": "single",
+      "resource": "block/emerald_ore"
+    },
+    {
+      "type": "single",
+      "resource": "block/medium_amethyst_bud"
+    },
+    {
+      "type": "single",
+      "resource": "block/kelp"
+    },
+    {
+      "type": "single",
+      "resource": "block/red_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_crimson_stem"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_crimson_stem_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/respawn_anchor_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/respawn_anchor_side0"
+    },
+    {
+      "type": "single",
+      "resource": "block/respawn_anchor_top_off"
+    },
+    {
+      "type": "single",
+      "resource": "block/respawn_anchor_side1"
+    },
+    {
+      "type": "single",
+      "resource": "block/respawn_anchor_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/respawn_anchor_side2"
+    },
+    {
+      "type": "single",
+      "resource": "block/respawn_anchor_side3"
+    },
+    {
+      "type": "single",
+      "resource": "block/respawn_anchor_side4"
+    },
+    {
+      "type": "single",
+      "resource": "block/blackstone"
+    },
+    {
+      "type": "single",
+      "resource": "block/blackstone_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/exposed_cut_copper"
+    },
+    {
+      "type": "single",
+      "resource": "block/birch_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/fire_coral"
+    },
+    {
+      "type": "single",
+      "resource": "block/copper_ore"
+    },
+    {
+      "type": "single",
+      "resource": "block/repeater"
+    },
+    {
+      "type": "single",
+      "resource": "block/repeater_on"
+    },
+    {
+      "type": "single",
+      "resource": "block/bedrock"
+    },
+    {
+      "type": "single",
+      "resource": "block/hay_block_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/hay_block_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/copper_torch"
+    },
+    {
+      "type": "single",
+      "resource": "block/allium"
+    },
+    {
+      "type": "single",
+      "resource": "block/rose_bush_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/rose_bush_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/purple_concrete_powder"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_cherry_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_cherry_log_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/gray_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/red_stained_glass"
+    },
+    {
+      "type": "single",
+      "resource": "block/pale_oak_log_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/pale_oak_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/brown_wool"
+    },
+    {
+      "type": "single",
+      "resource": "block/weeping_vines"
+    },
+    {
+      "type": "single",
+      "resource": "block/orange_candle"
+    },
+    {
+      "type": "single",
+      "resource": "block/orange_candle_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/oxidized_copper_chain"
+    },
+    {
+      "type": "single",
+      "resource": "block/polished_blackstone_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/light_gray_glazed_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/purple_wool"
+    },
+    {
+      "type": "single",
+      "resource": "block/crimson_fungus"
+    },
+    {
+      "type": "single",
+      "resource": "block/activator_rail"
+    },
+    {
+      "type": "single",
+      "resource": "block/activator_rail_on"
+    },
+    {
+      "type": "single",
+      "resource": "block/purple_concrete"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_acacia_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_acacia_log_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/dead_tube_coral_fan"
+    },
+    {
+      "type": "single",
+      "resource": "block/oxidized_copper_grate"
+    },
+    {
+      "type": "single",
+      "resource": "block/attached_pumpkin_stem"
+    },
+    {
+      "type": "single",
+      "resource": "block/torchflower"
+    },
+    {
+      "type": "single",
+      "resource": "block/tall_grass_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/tall_grass_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/tube_coral_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/dark_oak_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/blast_furnace_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/blast_furnace_front"
+    },
+    {
+      "type": "single",
+      "resource": "block/blast_furnace_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/blast_furnace_front_on"
+    },
+    {
+      "type": "single",
+      "resource": "block/sculk_catalyst_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/sculk_catalyst_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/sculk_catalyst_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/sculk_catalyst_top_bloom"
+    },
+    {
+      "type": "single",
+      "resource": "block/sculk_catalyst_side_bloom"
+    },
+    {
+      "type": "single",
+      "resource": "block/test_block_accept"
+    },
+    {
+      "type": "single",
+      "resource": "block/test_block_fail"
+    },
+    {
+      "type": "single",
+      "resource": "block/test_block_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/test_block_start"
+    },
+    {
+      "type": "single",
+      "resource": "block/large_fern_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/large_fern_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/note_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/torchflower_crop_stage0"
+    },
+    {
+      "type": "single",
+      "resource": "block/torchflower_crop_stage1"
+    },
+    {
+      "type": "single",
+      "resource": "block/redstone_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/dark_oak_sapling"
+    },
+    {
+      "type": "single",
+      "resource": "block/barrel_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/barrel_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/barrel_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/barrel_top_open"
+    },
+    {
+      "type": "single",
+      "resource": "block/weathered_copper_door_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/weathered_copper_door_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/redstone_lamp"
+    },
+    {
+      "type": "single",
+      "resource": "block/redstone_lamp_on"
+    },
+    {
+      "type": "single",
+      "resource": "block/azalea_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/azalea_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/coal_ore"
+    },
+    {
+      "type": "single",
+      "resource": "block/cracked_nether_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/dead_brain_coral"
+    },
+    {
+      "type": "single",
+      "resource": "block/frosted_ice_0"
+    },
+    {
+      "type": "single",
+      "resource": "block/frosted_ice_1"
+    },
+    {
+      "type": "single",
+      "resource": "block/frosted_ice_2"
+    },
+    {
+      "type": "single",
+      "resource": "block/frosted_ice_3"
+    },
+    {
+      "type": "single",
+      "resource": "block/smithing_table_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/smithing_table_front"
+    },
+    {
+      "type": "single",
+      "resource": "block/smithing_table_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/smithing_table_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/gray_glazed_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/hopper_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/hopper_outside"
+    },
+    {
+      "type": "single",
+      "resource": "block/hopper_inside"
+    },
+    {
+      "type": "single",
+      "resource": "block/light_blue_wool"
+    },
+    {
+      "type": "single",
+      "resource": "block/observer_front"
+    },
+    {
+      "type": "single",
+      "resource": "block/observer_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/observer_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/observer_back"
+    },
+    {
+      "type": "single",
+      "resource": "block/observer_back_on"
+    },
+    {
+      "type": "single",
+      "resource": "block/soul_sand"
+    },
+    {
+      "type": "single",
+      "resource": "block/warped_stem_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/powder_snow"
+    },
+    {
+      "type": "single",
+      "resource": "block/clay"
+    },
+    {
+      "type": "single",
+      "resource": "block/flowering_azalea_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/flowering_azalea_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_birch_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/dirt_path_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/dirt_path_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/ice"
+    },
+    {
+      "type": "single",
+      "resource": "block/beetroots_stage0"
+    },
+    {
+      "type": "single",
+      "resource": "block/beetroots_stage1"
+    },
+    {
+      "type": "single",
+      "resource": "block/beetroots_stage2"
+    },
+    {
+      "type": "single",
+      "resource": "block/beetroots_stage3"
+    },
+    {
+      "type": "single",
+      "resource": "block/chiseled_tuff_bricks_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/chiseled_tuff_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/bamboo_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/bamboo_block_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/sniffer_egg_not_cracked_south"
+    },
+    {
+      "type": "single",
+      "resource": "block/sniffer_egg_not_cracked_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/sniffer_egg_not_cracked_east"
+    },
+    {
+      "type": "single",
+      "resource": "block/sniffer_egg_not_cracked_west"
+    },
+    {
+      "type": "single",
+      "resource": "block/sniffer_egg_not_cracked_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/sniffer_egg_not_cracked_north"
+    },
+    {
+      "type": "single",
+      "resource": "block/sniffer_egg_slightly_cracked_east"
+    },
+    {
+      "type": "single",
+      "resource": "block/sniffer_egg_slightly_cracked_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/sniffer_egg_slightly_cracked_north"
+    },
+    {
+      "type": "single",
+      "resource": "block/sniffer_egg_slightly_cracked_south"
+    },
+    {
+      "type": "single",
+      "resource": "block/sniffer_egg_slightly_cracked_west"
+    },
+    {
+      "type": "single",
+      "resource": "block/sniffer_egg_slightly_cracked_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/sniffer_egg_very_cracked_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/sniffer_egg_very_cracked_west"
+    },
+    {
+      "type": "single",
+      "resource": "block/sniffer_egg_very_cracked_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/sniffer_egg_very_cracked_north"
+    },
+    {
+      "type": "single",
+      "resource": "block/sniffer_egg_very_cracked_south"
+    },
+    {
+      "type": "single",
+      "resource": "block/sniffer_egg_very_cracked_east"
+    },
+    {
+      "type": "single",
+      "resource": "block/enchanting_table_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/enchanting_table_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/enchanting_table_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/weathered_lightning_rod"
+    },
+    {
+      "type": "single",
+      "resource": "block/piston_top_sticky"
+    },
+    {
+      "type": "single",
+      "resource": "block/spruce_trapdoor"
+    },
+    {
+      "type": "single",
+      "resource": "block/pink_stained_glass"
+    },
+    {
+      "type": "single",
+      "resource": "block/lily_of_the_valley"
+    },
+    {
+      "type": "single",
+      "resource": "block/wither_rose"
+    },
+    {
+      "type": "single",
+      "resource": "block/pink_candle"
+    },
+    {
+      "type": "single",
+      "resource": "block/pink_candle_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/wet_sponge"
+    },
+    {
+      "type": "single",
+      "resource": "block/blue_stained_glass"
+    },
+    {
+      "type": "single",
+      "resource": "block/fire_coral_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/ancient_debris_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/ancient_debris_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/bee_nest_front"
+    },
+    {
+      "type": "single",
+      "resource": "block/bee_nest_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/bee_nest_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/bee_nest_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/bee_nest_front_honey"
+    },
+    {
+      "type": "single",
+      "resource": "block/exposed_copper_grate"
+    },
+    {
+      "type": "single",
+      "resource": "block/birch_log_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/gilded_blackstone"
+    },
+    {
+      "type": "single",
+      "resource": "block/chiseled_sandstone"
+    },
+    {
+      "type": "single",
+      "resource": "block/budding_amethyst"
+    },
+    {
+      "type": "single",
+      "resource": "block/smoker_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/smoker_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/smoker_front"
+    },
+    {
+      "type": "single",
+      "resource": "block/smoker_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/smoker_front_on"
+    },
+    {
+      "type": "single",
+      "resource": "block/sand"
+    },
+    {
+      "type": "single",
+      "resource": "block/carrots_stage0"
+    },
+    {
+      "type": "single",
+      "resource": "block/carrots_stage1"
+    },
+    {
+      "type": "single",
+      "resource": "block/carrots_stage2"
+    },
+    {
+      "type": "single",
+      "resource": "block/carrots_stage3"
+    },
+    {
+      "type": "single",
+      "resource": "block/shroomlight"
+    },
+    {
+      "type": "single",
+      "resource": "block/green_concrete"
+    },
+    {
+      "type": "single",
+      "resource": "block/seagrass"
+    },
+    {
+      "type": "single",
+      "resource": "block/orange_wool"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_dark_oak_log_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/light_gray_wool"
+    },
+    {
+      "type": "single",
+      "resource": "block/magenta_glazed_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/white_candle"
+    },
+    {
+      "type": "single",
+      "resource": "block/white_candle_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_bamboo_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_bamboo_block_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/lightning_rod"
+    },
+    {
+      "type": "single",
+      "resource": "block/twisting_vines_plant"
+    },
+    {
+      "type": "single",
+      "resource": "block/gray_candle"
+    },
+    {
+      "type": "single",
+      "resource": "block/gray_candle_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/sea_pickle"
+    },
+    {
+      "type": "single",
+      "resource": "block/cocoa_stage0"
+    },
+    {
+      "type": "single",
+      "resource": "block/cocoa_stage1"
+    },
+    {
+      "type": "single",
+      "resource": "block/cocoa_stage2"
+    },
+    {
+      "type": "single",
+      "resource": "block/tall_dry_grass"
+    },
+    {
+      "type": "single",
+      "resource": "block/crimson_roots_pot"
+    },
+    {
+      "type": "single",
+      "resource": "block/potted_azalea_bush_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/potted_azalea_bush_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/potted_azalea_bush_plant"
+    },
+    {
+      "type": "single",
+      "resource": "block/red_sand"
+    },
+    {
+      "type": "single",
+      "resource": "block/orange_concrete_powder"
+    },
+    {
+      "type": "single",
+      "resource": "block/gravel"
+    },
+    {
+      "type": "single",
+      "resource": "block/peony_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/peony_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/orange_stained_glass"
+    },
+    {
+      "type": "single",
+      "resource": "block/dark_oak_trapdoor"
+    },
+    {
+      "type": "single",
+      "resource": "block/mangrove_roots_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/mangrove_roots_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/dead_fire_coral_fan"
+    },
+    {
+      "type": "single",
+      "resource": "block/anvil_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/frogspawn"
+    },
+    {
+      "type": "single",
+      "resource": "block/potted_flowering_azalea_bush_plant"
+    },
+    {
+      "type": "single",
+      "resource": "block/potted_flowering_azalea_bush_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/potted_flowering_azalea_bush_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_jungle_log_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/bamboo_mosaic"
+    },
+    {
+      "type": "single",
+      "resource": "block/firefly_bush"
+    },
+    {
+      "type": "single",
+      "resource": "block/firefly_bush_emissive"
+    },
+    {
+      "type": "single",
+      "resource": "block/spruce_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/cave_vines"
+    },
+    {
+      "type": "single",
+      "resource": "block/cave_vines_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/mud_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/sweet_berry_bush_stage0"
+    },
+    {
+      "type": "single",
+      "resource": "block/sweet_berry_bush_stage1"
+    },
+    {
+      "type": "single",
+      "resource": "block/sweet_berry_bush_stage2"
+    },
+    {
+      "type": "single",
+      "resource": "block/sweet_berry_bush_stage3"
+    },
+    {
+      "type": "single",
+      "resource": "block/light_blue_candle"
+    },
+    {
+      "type": "single",
+      "resource": "block/light_blue_candle_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/red_concrete"
+    },
+    {
+      "type": "single",
+      "resource": "block/deepslate_iron_ore"
+    },
+    {
+      "type": "single",
+      "resource": "block/yellow_concrete"
+    },
+    {
+      "type": "single",
+      "resource": "block/warped_roots_pot"
+    },
+    {
+      "type": "single",
+      "resource": "block/dead_bubble_coral_fan"
+    },
+    {
+      "type": "single",
+      "resource": "block/verdant_froglight_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/verdant_froglight_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/warped_door_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/warped_door_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/black_wool"
+    },
+    {
+      "type": "single",
+      "resource": "block/emerald_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/crafting_table_front"
+    },
+    {
+      "type": "single",
+      "resource": "block/crafting_table_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/crafting_table_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/chiseled_copper"
+    },
+    {
+      "type": "single",
+      "resource": "block/light_gray_stained_glass"
+    },
+    {
+      "type": "single",
+      "resource": "block/quartz_pillar_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/quartz_pillar"
+    },
+    {
+      "type": "single",
+      "resource": "block/blue_concrete_powder"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_mangrove_log_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/yellow_concrete_powder"
+    },
+    {
+      "type": "single",
+      "resource": "block/tripwire"
+    },
+    {
+      "type": "single",
+      "resource": "block/bubble_coral"
+    },
+    {
+      "type": "single",
+      "resource": "block/acacia_leaves"
+    },
+    {
+      "type": "single",
+      "resource": "block/suspicious_gravel_0"
+    },
+    {
+      "type": "single",
+      "resource": "block/suspicious_gravel_1"
+    },
+    {
+      "type": "single",
+      "resource": "block/suspicious_gravel_2"
+    },
+    {
+      "type": "single",
+      "resource": "block/suspicious_gravel_3"
+    },
+    {
+      "type": "single",
+      "resource": "block/iron_chain"
+    },
+    {
+      "type": "single",
+      "resource": "block/rail"
+    },
+    {
+      "type": "single",
+      "resource": "block/rail_corner"
+    },
+    {
+      "type": "single",
+      "resource": "block/green_stained_glass"
+    },
+    {
+      "type": "single",
+      "resource": "block/slime_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/deepslate_gold_ore"
+    },
+    {
+      "type": "single",
+      "resource": "block/raw_iron_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/copper_bulb"
+    },
+    {
+      "type": "single",
+      "resource": "block/copper_bulb_powered"
+    },
+    {
+      "type": "single",
+      "resource": "block/copper_bulb_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/copper_bulb_lit_powered"
+    },
+    {
+      "type": "single",
+      "resource": "block/powered_rail"
+    },
+    {
+      "type": "single",
+      "resource": "block/powered_rail_on"
+    },
+    {
+      "type": "single",
+      "resource": "block/chiseled_resin_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/copper_door_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/copper_door_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/oak_trapdoor"
+    },
+    {
+      "type": "single",
+      "resource": "block/command_block_front"
+    },
+    {
+      "type": "single",
+      "resource": "block/command_block_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/command_block_back"
+    },
+    {
+      "type": "single",
+      "resource": "block/command_block_conditional"
+    },
+    {
+      "type": "single",
+      "resource": "block/pale_moss_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/packed_mud"
+    },
+    {
+      "type": "single",
+      "resource": "block/oak_log_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/moss_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/flower_pot"
+    },
+    {
+      "type": "single",
+      "resource": "block/magenta_concrete"
+    },
+    {
+      "type": "single",
+      "resource": "block/pale_oak_sapling"
+    },
+    {
+      "type": "single",
+      "resource": "block/white_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/gray_stained_glass"
+    },
+    {
+      "type": "single",
+      "resource": "block/granite"
+    },
+    {
+      "type": "single",
+      "resource": "block/purple_glazed_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/farmland"
+    },
+    {
+      "type": "single",
+      "resource": "block/farmland_moist"
+    },
+    {
+      "type": "single",
+      "resource": "block/polished_basalt_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/polished_basalt_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/purple_candle"
+    },
+    {
+      "type": "single",
+      "resource": "block/purple_candle_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/calcite"
+    },
+    {
+      "type": "single",
+      "resource": "block/tripwire_hook"
+    },
+    {
+      "type": "single",
+      "resource": "block/comparator"
+    },
+    {
+      "type": "single",
+      "resource": "block/comparator_on"
+    },
+    {
+      "type": "single",
+      "resource": "block/furnace_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/dispenser_front_vertical"
+    },
+    {
+      "type": "single",
+      "resource": "block/dispenser_front"
+    },
+    {
+      "type": "single",
+      "resource": "block/furnace_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/loom_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/loom_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/loom_front"
+    },
+    {
+      "type": "single",
+      "resource": "block/loom_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/pale_hanging_moss"
+    },
+    {
+      "type": "single",
+      "resource": "block/pale_hanging_moss_tip"
+    },
+    {
+      "type": "single",
+      "resource": "block/exposed_copper_bulb"
+    },
+    {
+      "type": "single",
+      "resource": "block/exposed_copper_bulb_powered"
+    },
+    {
+      "type": "single",
+      "resource": "block/exposed_copper_bulb_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/exposed_copper_bulb_lit_powered"
+    },
+    {
+      "type": "single",
+      "resource": "block/orange_concrete"
+    },
+    {
+      "type": "single",
+      "resource": "block/deepslate_diamond_ore"
+    },
+    {
+      "type": "single",
+      "resource": "block/sunflower_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/sunflower_back"
+    },
+    {
+      "type": "single",
+      "resource": "block/sunflower_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/sunflower_front"
+    },
+    {
+      "type": "single",
+      "resource": "block/chiseled_nether_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/yellow_wool"
+    },
+    {
+      "type": "single",
+      "resource": "block/black_stained_glass"
+    },
+    {
+      "type": "single",
+      "resource": "block/gold_ore"
+    },
+    {
+      "type": "single",
+      "resource": "block/deepslate_coal_ore"
+    },
+    {
+      "type": "single",
+      "resource": "block/spruce_door_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/spruce_door_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/campfire_log"
+    },
+    {
+      "type": "single",
+      "resource": "block/campfire_fire"
+    },
+    {
+      "type": "single",
+      "resource": "block/campfire_log_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/orange_glazed_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/coarse_dirt"
+    },
+    {
+      "type": "single",
+      "resource": "block/bone_block_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/bone_block_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/soul_torch"
+    },
+    {
+      "type": "single",
+      "resource": "block/soul_soil"
+    },
+    {
+      "type": "single",
+      "resource": "block/light_gray_concrete_powder"
+    },
+    {
+      "type": "single",
+      "resource": "block/furnace_front"
+    },
+    {
+      "type": "single",
+      "resource": "block/furnace_front_on"
+    },
+    {
+      "type": "single",
+      "resource": "block/grindstone_round"
+    },
+    {
+      "type": "single",
+      "resource": "block/grindstone_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/grindstone_pivot"
+    },
+    {
+      "type": "single",
+      "resource": "block/deepslate_emerald_ore"
+    },
+    {
+      "type": "single",
+      "resource": "block/tall_seagrass_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/tall_seagrass_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/purpur_pillar"
+    },
+    {
+      "type": "single",
+      "resource": "block/purpur_pillar_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/ochre_froglight_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/ochre_froglight_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/dead_tube_coral"
+    },
+    {
+      "type": "single",
+      "resource": "block/stonecutter_saw"
+    },
+    {
+      "type": "single",
+      "resource": "block/stonecutter_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/stonecutter_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/stonecutter_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/orange_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/dark_oak_log_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/cracked_stone_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/cyan_concrete_powder"
+    },
+    {
+      "type": "single",
+      "resource": "block/dead_bubble_coral"
+    },
+    {
+      "type": "single",
+      "resource": "block/cyan_concrete"
+    },
+    {
+      "type": "single",
+      "resource": "block/purple_stained_glass"
+    },
+    {
+      "type": "single",
+      "resource": "block/reinforced_deepslate_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/reinforced_deepslate_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/reinforced_deepslate_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/honey_block_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/honey_block_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/honey_block_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/stripped_birch_log_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/tinted_glass"
+    },
+    {
+      "type": "single",
+      "resource": "block/dropper_front_vertical"
+    },
+    {
+      "type": "single",
+      "resource": "block/dropper_front"
+    },
+    {
+      "type": "single",
+      "resource": "block/brown_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/lime_concrete_powder"
+    },
+    {
+      "type": "single",
+      "resource": "block/spruce_leaves"
+    },
+    {
+      "type": "single",
+      "resource": "block/diamond_ore"
+    },
+    {
+      "type": "single",
+      "resource": "block/white_stained_glass"
+    },
+    {
+      "type": "single",
+      "resource": "block/weeping_vines_plant"
+    },
+    {
+      "type": "single",
+      "resource": "block/blue_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/cherry_log_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/light_blue_glazed_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/redstone_ore"
+    },
+    {
+      "type": "single",
+      "resource": "block/mangrove_trapdoor"
+    },
+    {
+      "type": "single",
+      "resource": "block/end_portal_frame_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/end_portal_frame_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/end_portal_frame_eye"
+    },
+    {
+      "type": "single",
+      "resource": "block/chiseled_stone_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/cyan_glazed_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/sculk_shrieker_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/sculk_shrieker_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/sculk_shrieker_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/sculk_shrieker_inner_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/sculk_shrieker_can_summon_inner_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/damaged_anvil_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/acacia_log_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/magenta_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/horn_coral"
+    },
+    {
+      "type": "single",
+      "resource": "block/copper_trapdoor"
+    },
+    {
+      "type": "single",
+      "resource": "block/deepslate_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/heavy_core"
+    },
+    {
+      "type": "single",
+      "resource": "block/mud"
+    },
+    {
+      "type": "single",
+      "resource": "block/diamond_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/deepslate_lapis_ore"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_0_south"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_0_west"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_0_east"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_0_north"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_0_tentacles"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_0_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_0_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_1_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_1_tentacles"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_1_south"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_1_west"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_1_north"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_1_east"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_1_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_2_tentacles"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_2_north"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_2_south"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_2_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_2_west"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_2_east"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_2_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_3_east"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_3_west"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_3_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_3_north"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_3_south"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_3_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/dried_ghast_hydration_3_tentacles"
+    },
+    {
+      "type": "single",
+      "resource": "block/cracked_deepslate_tiles"
+    },
+    {
+      "type": "single",
+      "resource": "block/lime_concrete"
+    },
+    {
+      "type": "single",
+      "resource": "block/mangrove_door_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/mangrove_door_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/chiseled_quartz_block_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/chiseled_quartz_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/yellow_stained_glass"
+    },
+    {
+      "type": "single",
+      "resource": "block/crimson_roots"
+    },
+    {
+      "type": "single",
+      "resource": "block/soul_campfire_log_lit"
+    },
+    {
+      "type": "single",
+      "resource": "block/soul_campfire_fire"
+    },
+    {
+      "type": "single",
+      "resource": "block/dead_fire_coral_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/bamboo_singleleaf"
+    },
+    {
+      "type": "single",
+      "resource": "block/bamboo_stalk"
+    },
+    {
+      "type": "single",
+      "resource": "block/dead_horn_coral_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/repeating_command_block_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/repeating_command_block_front"
+    },
+    {
+      "type": "single",
+      "resource": "block/repeating_command_block_back"
+    },
+    {
+      "type": "single",
+      "resource": "block/repeating_command_block_conditional"
+    },
+    {
+      "type": "single",
+      "resource": "block/brown_concrete_powder"
+    },
+    {
+      "type": "single",
+      "resource": "block/oak_leaves"
+    },
+    {
+      "type": "single",
+      "resource": "block/terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/pearlescent_froglight_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/pearlescent_froglight_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/dead_fire_coral"
+    },
+    {
+      "type": "single",
+      "resource": "block/small_dripleaf_stem_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/small_dripleaf_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/small_dripleaf_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/small_dripleaf_stem_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/bamboo_stage0"
+    },
+    {
+      "type": "single",
+      "resource": "block/cracked_deepslate_bricks"
+    },
+    {
+      "type": "single",
+      "resource": "block/coal_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/warped_wart_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/smooth_basalt"
+    },
+    {
+      "type": "single",
+      "resource": "block/dead_bubble_coral_block"
+    },
+    {
+      "type": "single",
+      "resource": "block/trial_spawner_side_active"
+    },
+    {
+      "type": "single",
+      "resource": "block/trial_spawner_top_active"
+    },
+    {
+      "type": "single",
+      "resource": "block/trial_spawner_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/trial_spawner_side_inactive"
+    },
+    {
+      "type": "single",
+      "resource": "block/trial_spawner_top_inactive"
+    },
+    {
+      "type": "single",
+      "resource": "block/trial_spawner_top_ejecting_reward"
+    },
+    {
+      "type": "single",
+      "resource": "block/trial_spawner_side_active_ominous"
+    },
+    {
+      "type": "single",
+      "resource": "block/trial_spawner_top_active_ominous"
+    },
+    {
+      "type": "single",
+      "resource": "block/trial_spawner_side_inactive_ominous"
+    },
+    {
+      "type": "single",
+      "resource": "block/trial_spawner_top_inactive_ominous"
+    },
+    {
+      "type": "single",
+      "resource": "block/trial_spawner_top_ejecting_reward_ominous"
+    },
+    {
+      "type": "single",
+      "resource": "block/cobweb"
+    },
+    {
+      "type": "single",
+      "resource": "block/lime_glazed_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/short_grass"
+    },
+    {
+      "type": "single",
+      "resource": "block/attached_melon_stem"
+    },
+    {
+      "type": "single",
+      "resource": "block/soul_lantern"
+    },
+    {
+      "type": "single",
+      "resource": "block/birch_trapdoor"
+    },
+    {
+      "type": "single",
+      "resource": "block/bamboo_door_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/bamboo_door_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/large_amethyst_bud"
+    },
+    {
+      "type": "single",
+      "resource": "block/pale_oak_leaves"
+    },
+    {
+      "type": "single",
+      "resource": "block/nether_gold_ore"
+    },
+    {
+      "type": "single",
+      "resource": "block/end_rod"
+    },
+    {
+      "type": "single",
+      "resource": "block/flowering_azalea_leaves"
+    },
+    {
+      "type": "single",
+      "resource": "block/scaffolding_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/scaffolding_side"
+    },
+    {
+      "type": "single",
+      "resource": "block/scaffolding_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/pointed_dripstone_down_base"
+    },
+    {
+      "type": "single",
+      "resource": "block/pointed_dripstone_up_base"
+    },
+    {
+      "type": "single",
+      "resource": "block/pointed_dripstone_down_frustum"
+    },
+    {
+      "type": "single",
+      "resource": "block/pointed_dripstone_up_frustum"
+    },
+    {
+      "type": "single",
+      "resource": "block/pointed_dripstone_down_middle"
+    },
+    {
+      "type": "single",
+      "resource": "block/pointed_dripstone_up_middle"
+    },
+    {
+      "type": "single",
+      "resource": "block/pointed_dripstone_down_tip"
+    },
+    {
+      "type": "single",
+      "resource": "block/pointed_dripstone_up_tip"
+    },
+    {
+      "type": "single",
+      "resource": "block/pointed_dripstone_down_tip_merge"
+    },
+    {
+      "type": "single",
+      "resource": "block/pointed_dripstone_up_tip_merge"
+    },
+    {
+      "type": "single",
+      "resource": "block/spruce_log_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/vault_side_on"
+    },
+    {
+      "type": "single",
+      "resource": "block/vault_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "block/vault_top"
+    },
+    {
+      "type": "single",
+      "resource": "block/vault_front_on"
+    },
+    {
+      "type": "single",
+      "resource": "block/vault_top_ejecting"
+    },
+    {
+      "type": "single",
+      "resource": "block/vault_front_ejecting"
+    },
+    {
+      "type": "single",
+      "resource": "block/vault_front_off"
+    },
+    {
+      "type": "single",
+      "resource": "block/vault_side_off"
+    },
+    {
+      "type": "single",
+      "resource": "block/vault_front_on_ominous"
+    },
+    {
+      "type": "single",
+      "resource": "block/vault_side_on_ominous"
+    },
+    {
+      "type": "single",
+      "resource": "block/vault_bottom_ominous"
+    },
+    {
+      "type": "single",
+      "resource": "block/vault_top_ominous"
+    },
+    {
+      "type": "single",
+      "resource": "block/vault_top_ejecting_ominous"
+    },
+    {
+      "type": "single",
+      "resource": "block/vault_front_ejecting_ominous"
+    },
+    {
+      "type": "single",
+      "resource": "block/vault_front_off_ominous"
+    },
+    {
+      "type": "single",
+      "resource": "block/vault_side_off_ominous"
+    },
+    {
+      "type": "single",
+      "resource": "block/yellow_terracotta"
+    },
+    {
+      "type": "single",
+      "resource": "block/bookshelf"
+    },
+    {
+      "type": "single",
+      "resource": "block/brown_concrete"
+    },
+    {
+      "type": "single",
+      "resource": "block/cyan_stained_glass"
+    },
+    {
+      "type": "single",
+      "resource": "block/gray_concrete"
+    },
+    {
+      "type": "single",
+      "resource": "block/crying_obsidian"
+    },
+    {
+      "type": "single",
+      "resource": "block/mangrove_leaves"
+    },
+    {
+      "type": "single",
+      "resource": "block/nether_wart_block"
+    }
+  ]
+}
