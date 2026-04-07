@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:item/_parents/blowgun",
+  "textures": {
+    "layer0": "conquest:item/bows/blowgun"
+  }
+}

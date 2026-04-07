@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:magister"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:magister"
+      }
+    ]
+  }
+}

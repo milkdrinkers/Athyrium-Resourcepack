@@ -1,0 +1,9 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:helmets/horned_samurai_helmet"
+      }
+    ]
+  }
+}

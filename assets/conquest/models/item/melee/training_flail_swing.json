@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:item/_parents/flail_swing",
+  "textures": {
+    "layer0": "conquest:item/melee/training_flail_swing"
+  }
+}

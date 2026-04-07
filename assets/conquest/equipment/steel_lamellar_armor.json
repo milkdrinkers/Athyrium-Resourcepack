@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:steel_lamellar_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:steel_lamellar_armor"
+      }
+    ]
+  }
+}

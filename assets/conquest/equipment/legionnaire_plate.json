@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:legionnaire_plate"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:legionnaire_plate"
+      }
+    ]
+  }
+}

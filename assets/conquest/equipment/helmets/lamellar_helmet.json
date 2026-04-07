@@ -1,0 +1,9 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:helmets/lamellar_helmet"
+      }
+    ]
+  }
+}

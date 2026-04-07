@@ -1,0 +1,54 @@
+{
+  "model": {
+    "cases": [
+      {
+        "model": {
+          "model": "conquest:item/crossbow/crossbow_steel_arrow",
+          "type": "minecraft:model"
+        },
+        "when": "arrow"
+      },
+      {
+        "model": {
+          "model": "conquest:item/crossbow/crossbow_steel_fire",
+          "type": "minecraft:model"
+        },
+        "when": "rocket"
+      }
+    ],
+    "fallback": {
+      "on_false": {
+        "model": "conquest:item/crossbow/crossbow_steel",
+        "type": "minecraft:model"
+      },
+      "on_true": {
+        "entries": [
+          {
+            "model": {
+              "model": "conquest:item/crossbow/crossbow_steel_2",
+              "type": "minecraft:model"
+            },
+            "threshold": 0.58
+          },
+          {
+            "model": {
+              "model": "conquest:item/crossbow/crossbow_steel_3",
+              "type": "minecraft:model"
+            },
+            "threshold": 1.0
+          }
+        ],
+        "fallback": {
+          "model": "conquest:item/crossbow/crossbow_steel_1",
+          "type": "minecraft:model"
+        },
+        "property": "minecraft:crossbow/pull",
+        "type": "minecraft:range_dispatch"
+      },
+      "property": "minecraft:using_item",
+      "type": "minecraft:condition"
+    },
+    "property": "minecraft:charge_type",
+    "type": "minecraft:select"
+  }
+}

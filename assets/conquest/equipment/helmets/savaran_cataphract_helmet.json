@@ -1,0 +1,9 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:helmets/savaran_cataphract_helmet"
+      }
+    ]
+  }
+}

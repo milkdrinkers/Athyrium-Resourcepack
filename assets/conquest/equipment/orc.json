@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:orc"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:orc"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:dark_samurai_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:dark_samurai_armor"
+      }
+    ]
+  }
+}

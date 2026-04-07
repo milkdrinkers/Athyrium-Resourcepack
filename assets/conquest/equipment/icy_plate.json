@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:icy_plate"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:icy_plate"
+      }
+    ]
+  }
+}

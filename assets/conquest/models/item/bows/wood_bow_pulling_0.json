@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:item/_parents/long_bow",
+  "textures": {
+    "layer0": "conquest:item/bows/wood_bow_pulling_0"
+  }
+}

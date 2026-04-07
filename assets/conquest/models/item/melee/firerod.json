@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:item/_parents/flail_big",
+  "textures": {
+    "layer0": "conquest:item/melee/firerod"
+  }
+}

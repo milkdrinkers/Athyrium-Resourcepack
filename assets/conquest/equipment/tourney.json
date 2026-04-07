@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:tourney"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:tourney"
+      }
+    ]
+  }
+}

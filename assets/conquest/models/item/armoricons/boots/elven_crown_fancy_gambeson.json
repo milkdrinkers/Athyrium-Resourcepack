@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "conquest:item/armoricons/boots/elven_crown_fancy_gambeson"
+  }
+}

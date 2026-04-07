@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:deinmaur_guardian"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:deinmaur_guardian"
+      }
+    ]
+  }
+}

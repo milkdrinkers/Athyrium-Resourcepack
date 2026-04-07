@@ -1,0 +1,15 @@
+{
+  "model": {
+    "keybind": "key.attack",
+    "on_false": {
+      "model": "conquest:item/melee/training_flail",
+      "type": "minecraft:model"
+    },
+    "on_true": {
+      "model": "conquest:item/melee/training_flail_swing",
+      "type": "minecraft:model"
+    },
+    "property": "minecraft:keybind_down",
+    "type": "minecraft:condition"
+  }
+}

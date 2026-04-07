@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:item/_parents/_shield",
+  "textures": {
+    "layer0": "conquest:item/shield/kiteshield_legion_black_01"
+  }
+}

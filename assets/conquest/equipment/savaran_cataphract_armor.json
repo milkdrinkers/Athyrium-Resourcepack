@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:savaran_cataphract"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:savaran_cataphract"
+      }
+    ]
+  }
+}

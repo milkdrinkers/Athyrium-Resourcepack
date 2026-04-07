@@ -1,0 +1,8 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "conquest:item/base",
+  "textures": {
+    "0": "conquest:item/helmets/corinthian_helmet",
+    "particle": "conquest:item/helmets/corinthian_helmet"
+  }
+}

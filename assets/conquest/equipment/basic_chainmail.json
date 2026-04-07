@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:basic_chainmail"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:basic_chainmail"
+      }
+    ]
+  }
+}

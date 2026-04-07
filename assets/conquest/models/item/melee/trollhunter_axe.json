@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:item/_parents/axe",
+  "textures": {
+    "layer0": "conquest:item/melee/trollhunter_axe"
+  }
+}

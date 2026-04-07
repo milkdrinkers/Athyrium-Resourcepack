@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:item/_parents/flail_small",
+  "textures": {
+    "layer0": "conquest:item/melee/double_flail"
+  }
+}

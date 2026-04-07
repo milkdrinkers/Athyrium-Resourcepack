@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:spotted_footsoldier"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:spotted_footsoldier"
+      }
+    ]
+  }
+}

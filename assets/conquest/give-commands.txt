@@ -1,0 +1,840 @@
+Conquest Trimmed pack - /minecraft:give command reference
+Generated for Minecraft 1.21.11+. Resource pack must be enabled.
+
+Each rename from the original pack is a conquest:items/<name> item-model.
+Apply via the item_model component; no anvil renaming needed.
+
+======================================================================
+WEAPONS / TOOLS / FOOD / SHIELDS
+======================================================================
+
+--- axe ---
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:acranoths_retribution"]   # Acranoths Retribution   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:assasin_katar"]   # Assasin Katar   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:assassin_blade"]   # Assassin Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:assassin_dagger"]   # Assassin Dagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:assassinblade"]   # assassinblade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:assassindagger"]   # assassindagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:ballheaded_warclub"]   # Ballheaded Warclub   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:bardiche"]   # Bardiche   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:bastardsword"]   # Bastardsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:bearded_battleaxe"]   # Bearded Battleaxe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:bearded_hatchet"]   # Bearded Hatchet   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:big_macuahuitl"]   # Big Macuahuitl   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:billhook"]   # Billhook   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:black_cleaver"]   # Black Cleaver   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:blackguard_claymore"]   # Blackguard Claymore   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:blade_of_the_twisted"]   # Blade of the Twisted   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:blade_of_woe"]   # Blade of Woe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:blade_sword"]   # Blade Sword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:bladed_chakram"]   # Bladed Chakram   (+ 14 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:bloodthorn_katana"]   # Bloodthorn Katana   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:bone_dagger"]   # Bone Dagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:bone_hatchet"]   # Bone Hatchet   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:bone_pickaxe"]   # Bone Pickaxe   (+ 14 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:boneclub"]   # Boneclub   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:boromirs_blade"]   # Boromirs Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:broadhatchet"]   # Broadhatchet   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:broken_bottle"]   # Broken Bottle   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:broken_narsil"]   # Broken Narsil   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:bronze_axe"]   # Bronze Axe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:bronze_axesword"]   # Bronze Axesword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:bronze_blade"]   # Bronze Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:bronze_claymore"]   # Bronze Claymore   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:bronze_dagger"]   # Bronze Dagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:bronze_greatsword"]   # Bronze Greatsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:bronze_hatchet"]   # Bronze Hatchet   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:bronze_katar"]   # Bronze Katar   (+ 13 other base items)
+/minecraft:give @s minecraft:copper_pickaxe[minecraft:item_model="conquest:bronze_pickaxe"]   # Bronze Pickaxe
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:bronzeaxe"]   # bronzeaxe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:butterflysword"]   # Butterflysword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:ceremonial_halberd"]   # Ceremonial Halberd   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:chinese_dagger_axe"]   # Chinese Dagger Axe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:chinese_dagger_halberd"]   # Chinese Dagger Halberd   (+ 14 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:chinese_ji_halberd"]   # Chinese Ji Halberd   (+ 14 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:chinese_jian_sword"]   # Chinese Jian Sword   (+ 13 other base items)
+/minecraft:give @s minecraft:iron_pickaxe[minecraft:item_model="conquest:chisel"]   # Chisel   (also: shears)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:chrysamere"]   # Chrysamere   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:cleaver_of_the_dragongod"]   # Cleaver Of The Dragongod   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:copper_dagger"]   # Copper Dagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:crimson_blade"]   # Crimson Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:crimson_dagger"]   # Crimson Dagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:crimson_harvester"]   # Crimson Harvester   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:crowbeak_hatchet"]   # Crowbeak Hatchet   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:crusader_blade"]   # Crusader Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:cuauhololli"]   # Cuauhololli   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:cutlass"]   # Cutlass   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:cutting_katar"]   # Cutting Katar   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:daedric_dagger"]   # Daedric Dagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:daedric_greataxe"]   # Daedric Greataxe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:dao_sword"]   # Dao Sword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:dark_axe"]   # Dark Axe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:dark_battleaxe"]   # Dark Battleaxe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:dark_blade"]   # Dark Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:decorated_spear"]   # Decorated Spear   (+ 15 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:diamond_flail"]   # Diamond Flail   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:diamond_halberd"]   # Diamond Halberd   (+ 14 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:diamond_hatchet"]   # Diamond Hatchet   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:diamond_katana"]   # Diamond Katana   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:diamond_knife"]   # Diamond Knife   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:diamond_warhammer"]   # Diamond Warhammer   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:doombringer_sword"]   # Doombringer Sword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:double_flail"]   # Double Flail   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:double_glaive"]   # Double Glaive   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:doubleheaded_hatchet"]   # Doubleheaded Hatchet   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:dragonbone_dagger"]   # Dragonbone Dagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:dragonbone_greataxe"]   # Dragonbone Greataxe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:dragonbone_greatsword"]   # Dragonbone Greatsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:dwarven_dagger"]   # Dwarven Dagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:dwarven_doubleheadedaxe"]   # Dwarven Doubleheadedaxe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:dwarven_greatsword"]   # Dwarven Greatsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:dwarven_hatchet"]   # Dwarven Hatchet   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:dwarven_mace"]   # Dwarven Mace   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:dwarven_sword"]   # Dwarven Sword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:dwarven_waraxe"]   # Dwarven Waraxe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:ebony_greatsword"]   # Ebony Greatsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:elven_dagger"]   # Elven Dagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:excalibur"]   # Excalibur   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:falcata"]   # Falcata   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:falx"]   # Falx   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:fancy_flail"]   # Fancy Flail   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:fancy_golden_knife"]   # Fancy Golden Knife   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:fancy_shortsword"]   # Fancy Shortsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:fancy_steel_pike"]   # Fancy Steel Pike   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:fancy_wooden_warclub"]   # Fancy Wooden Warclub   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:farming_scythe"]   # Farming Scythe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:feathered_macuahuitl"]   # Feathered Macuahuitl   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:fighting_staff"]   # Fighting Staff   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:firerod"]   # Firerod   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:firstperson_lefthand"]   # firstperson_lefthand   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:firstperson_righthand"]   # firstperson_righthand   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:gimlis_axe"]   # Gimlis Axe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:gimlis_greataxe"]   # Gimlis Greataxe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:glamdring"]   # Glamdring   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:glass_blade"]   # Glass Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:glass_claymore"]   # Glass Claymore   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:glass_dagger"]   # Glass Dagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:glass_greatsword"]   # Glass Greatsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:glass_longsword"]   # Glass Longsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:glowing_sting"]   # Glowing Sting   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:golden_warhammer"]   # Golden Warhammer   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:great_steel_tachi"]   # Great Steel Tachi   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:haladle_knife"]   # Haladle Knife   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:hamburger_richtschwert"]   # Hamburger Richtschwert   (+ 13 other base items)
+/minecraft:give @s minecraft:iron_pickaxe[minecraft:item_model="conquest:hammer"]   # Hammer   (also: shears)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:hand_and_a_half_sword"]   # Hand And A Half Sword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:heavy_broadaxe"]   # Heavy Broadaxe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:heavy_crowbeak"]   # Heavy Crowbeak   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:heavy_greatsword"]   # Heavy Greatsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:heavy_halberd"]   # Heavy Halberd   (+ 14 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:heavy_mace"]   # Heavy Mace   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:heavy_poleaxe"]   # Heavy Poleaxe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:heavy_ravenbeak"]   # Heavy Ravenbeak   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:heavy_warhammer"]   # Heavy Warhammer   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:hooksword"]   # Hooksword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:hoplite_sword"]   # Hoplite Sword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:hunting_knife"]   # Hunting Knife   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:hunting_knive"]   # Hunting Knive   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:ice_blade"]   # Ice Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:iceblade_of_the_monarch"]   # Iceblade Of The Monarch   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:ich_richte_richtschwert"]   # Ich Richte Richtschwert   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:imperial_mace"]   # Imperial Mace   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:iron_axesword"]   # Iron Axesword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:iron_shortsword"]   # Iron Shortsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:japanese_jitte"]   # Japanese Jitte   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:kanabo"]   # Kanabo   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:kendo_sword"]   # Kendo Sword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:khanda"]   # Khanda   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:khopesh"]   # Khopesh   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:kodachi"]   # Kodachi   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:konda_sword"]   # Konda Sword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:korean_blade"]   # Korean Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:kris_of_schaffar"]   # Kris Of Schaffar   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:krush_agash"]   # Krush Agash   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:krush_irmak"]   # Krush Irmak   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:krush_pach"]   # Krush Pach   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:krush_tarach"]   # Krush Tarach   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:krush_turok"]   # Krush Turok   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:lacred_polemace"]   # Lacred Polemace   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:large_axe"]   # Large Axe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:large_boneaxe"]   # Large Boneaxe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:large_crescent_blade"]   # Large Crescent Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:large_viking_broadaxe"]   # Large Viking Broadaxe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:large_wooden_club"]   # Large Wooden Club   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:leafblade_claymore"]   # Leafblade Claymore   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:leviatan_of_the_godslayer"]   # Leviatan Of The Godslayer   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:light_bearded_axe"]   # Light Bearded Axe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:light_halberd"]   # Light Halberd   (+ 14 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:light_spear"]   # Light Spear   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:long_dagger"]   # Long Dagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:long_spiked_battlestaff"]   # Long Spiked Battlestaff   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:long_wooden_mace"]   # Long Wooden Mace   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:machete"]   # Machete   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:marauder_falchion"]   # Marauder Falchion   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:marauder_greatsword"]   # Marauder Greatsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:medium_halberd"]   # Medium Halberd   (+ 14 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:messer"]   # Messer   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:mithril_blade"]   # Mithril Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:monkspade"]   # Monkspade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:moonblade"]   # Moonblade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:moro_kris_sword"]   # Moro Kris Sword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:mourning_star"]   # Mourning Star   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:nailed_club"]   # Nailed Club   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:narsil"]   # Narsil   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:narsil_shards"]   # Narsil Shards   (+ 13 other base items)
+/minecraft:give @s minecraft:iron_pickaxe[minecraft:item_model="conquest:needle"]   # Needle   (also: shears)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:nodachi"]   # Nodachi   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:nordic_twohander"]   # Nordic Twohander   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:northman_axe"]   # Northman Axe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:northman_blade"]   # Northman Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:oblivions_fate"]   # Oblivions Fate   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:obsidian_blade"]   # Obsidian Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:old_cleaver"]   # Old Cleaver   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:old_dagger"]   # Old Dagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:onemansland_sword"]   # Onemansland Sword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:orcish_blade"]   # Orcish Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:orcish_halbert"]   # Orcish Halbert   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:orcish_twohander"]   # Orcish Twohander   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:orcish_warscythe"]   # Orcish Warscythe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:panabas"]   # Panabas   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:piercing_sai"]   # Piercing Sai   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:pitchfork"]   # Pitchfork   (+ 21 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:pole_flail"]   # Pole Flail   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:polehammer"]   # Polehammer   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:primitive_flail"]   # Primitive Flail   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:primitive_stoneblade"]   # Primitive Stoneblade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:primitive_warhammer"]   # Primitive Warhammer   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:rapier"]   # Rapier   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:razortooth_cleaver"]   # Razortooth Cleaver   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:roman_gladius"]   # Roman Gladius   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:root_cleaver"]   # Root Cleaver   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:root_dagger"]   # Root Dagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:rootsword"]   # Rootsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:royal_dagger"]   # Royal Dagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:rusted_axe"]   # Rusted Axe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:rusted_blade"]   # Rusted Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:rusted_dagger"]   # Rusted Dagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:rusted_shovel"]   # Rusted Shovel   (+ 14 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:sasumata"]   # Sasumata   (+ 13 other base items)
+/minecraft:give @s minecraft:iron_pickaxe[minecraft:item_model="conquest:saw"]   # Saw   (also: shears)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:scimitar"]   # Scimitar   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:short_dagger"]   # Short Dagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:shortsword"]   # Shortsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:shotel_blade"]   # Shotel Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:simple_falchion"]   # Simple Falchion   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:simple_flail"]   # Simple Flail   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:simple_kitchen_knife"]   # Simple Kitchen Knife   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:simple_longsword"]   # Simple Longsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:simple_polearm"]   # Simple Polearm   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:simple_runeblade"]   # Simple Runeblade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:sin_of_the_night"]   # Sin of the Night   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:skullsplitter_axe"]   # Skullsplitter Axe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:slanted_katana"]   # Slanted Katana   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:small_battleaxe"]   # Small Battleaxe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:small_crescent_blade"]   # Small Crescent Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:small_macuahuitl"]   # Small Macuahuitl   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:smooth_iron_greatsword"]   # Smooth Iron Greatsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:smooth_steel_greatsword"]   # Smooth Steel Greatsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:spartan_officer_sword"]   # Spartan Officer Sword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:spiked_club"]   # Spiked Club   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:spiked_halberd"]   # Spiked Halberd   (+ 14 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:spiked_hatchet"]   # Spiked Hatchet   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:spiked_mace"]   # Spiked Mace   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:spiked_poleaxe"]   # Spiked Poleaxe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:spikey_flail"]   # Spikey Flail   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:spinalreaper"]   # Spinalreaper   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:stahlrim_axe"]   # Stahlrim Axe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:stahlrim_blade"]   # Stahlrim Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:stahlrim_claymore"]   # Stahlrim Claymore   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:stahlrim_dagger"]   # Stahlrim Dagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:stahlrim_greataxe"]   # Stahlrim Greataxe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:stahlrim_greatsword"]   # Stahlrim Greatsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:stahlrim_katana"]   # Stahlrim Katana   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:stahlrim_longsword"]   # Stahlrim Longsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:stahlrim_spear"]   # Stahlrim Spear   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:stahlrim_warhammer"]   # Stahlrim Warhammer   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:stahlrim_warscythe"]   # Stahlrim Warscythe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:steel_blade"]   # Steel Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:steel_claymore"]   # Steel Claymore   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:steel_greataxe"]   # Steel Greataxe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:steel_katana"]   # Steel Katana   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:steel_longsword"]   # Steel Longsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:steel_voulge"]   # Steel Voulge   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:sting_of_bilbo"]   # Sting Of Bilbo   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:stone_battleaxe"]   # Stone Battleaxe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:stone_halberd"]   # Stone Halberd   (+ 14 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:striders_sword"]   # Striders Sword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:sun_s_glory"]   # Sun's Glory   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:suns_glory"]   # suns glory   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:sword_of_fire"]   # Sword Of Fire   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:thirdperson_lefthand"]   # thirdperson_lefthand   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:thirdperson_righthand"]   # thirdperson_righthand   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:thorgrim_axe"]   # Thorgrim Axe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:titan_dagger"]   # Titan Dagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:tomahawk"]   # Tomahawk   (+ 13 other base items)
+/minecraft:give @s minecraft:iron_pickaxe[minecraft:item_model="conquest:tongs"]   # Tongs   (also: shears)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:traditional_katana"]   # Traditional Katana   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:training_flail"]   # Training Flail   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:trollhunter_axe"]   # Trollhunter Axe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:twohand_mace"]   # Twohand Mace   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:twoheaded_waraxe"]   # Twoheaded Waraxe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:uruk_hai_blade"]   # Uruk Hai Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:uruk_hai_headhunterblade"]   # Uruk Hai Headhunterblade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:valtin_halberd"]   # Valtin Halberd   (+ 14 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:viking_axe"]   # Viking Axe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:viking_longsword"]   # Viking Longsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:viking_sword"]   # Viking Sword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:voulge"]   # Voulge   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:warped_dagger"]   # Warped Dagger   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:warscythe"]   # Warscythe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:warstaff"]   # Warstaff   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:wavy_greatsword"]   # Wavy Greatsword   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:wooden_club"]   # Wooden_Club   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:xenthium_blade"]   # Xenthium Blade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:xenthium_waraxe"]   # Xenthium Waraxe   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:xenthium_warblade"]   # Xenthium Warblade   (+ 13 other base items)
+/minecraft:give @s minecraft:netherite_axe[minecraft:item_model="conquest:yggdrasils_curse"]   # Yggdrasils Curse   (+ 13 other base items)
+
+--- bow ---
+/minecraft:give @s minecraft:crossbow[minecraft:item_model="conquest:arrow"]   # arrow
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:birch_wand"]   # Birch Wand
+/minecraft:give @s minecraft:crossbow[minecraft:item_model="conquest:blunderbuss"]   # Blunderbuss
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:bone_longbow"]   # Bone Longbow
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:bone_wand"]   # Bone Wand
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:cinder_wand"]   # Cinder Wand
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:crimson_bow"]   # Crimson Bow
+/minecraft:give @s minecraft:crossbow[minecraft:item_model="conquest:crimson_crossbow"]   # Crimson Crossbow
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:crystal_wand"]   # Crystal Wand
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:curved_bow"]   # Curved Bow
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:demonic_embrace"]   # Demonic Embrace
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:dragon_soul"]   # Dragon Soul
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:ebony_wand"]   # Ebony Wand
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:elven_longbow"]   # Elven Longbow
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:english_longbow"]   # English Longbow
+/minecraft:give @s minecraft:crossbow[minecraft:item_model="conquest:flintlock_pistol"]   # Flintlock Pistol
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:gold_wand"]   # Gold Wand
+/minecraft:give @s minecraft:crossbow[minecraft:item_model="conquest:heavy_crossbow"]   # Heavy Crossbow
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:heavy_warbow"]   # Heavy Warbow
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:holy_wand"]   # Holy Wand
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:jade_wand"]   # Jade Wand
+/minecraft:give @s minecraft:crossbow[minecraft:item_model="conquest:light_crossbow"]   # Light Crossbow
+/minecraft:give @s minecraft:crossbow[minecraft:item_model="conquest:medium_crossbow"]   # Medium Crossbow
+/minecraft:give @s minecraft:crossbow[minecraft:item_model="conquest:musket"]   # Musket
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:natural_wand"]   # Natural Wand
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:nordic_wand"]   # Nordic Wand
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:opal_wand"]   # Opal Wand
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:orthanc"]   # Orthanc
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:reinforced_longbow"]   # Reinforced Longbow
+/minecraft:give @s minecraft:crossbow[minecraft:item_model="conquest:rocket"]   # rocket
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:root_longbow"]   # Root Longbow
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:serpentspine"]   # Serpentspine
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:short_bow"]   # Short Bow
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:silver_bow"]   # Silver Bow
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:simple_blowgun"]   # Simple Blowgun
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:simple_bow"]   # Simple Bow
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:small_warbow"]   # Small Warbow
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:staff_of_chaos"]   # Staff of Chaos
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:staff_of_flame"]   # Staff of Flame
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:staff_of_the_apostle"]   # Staff of the Apostle
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:stahlrim_bow"]   # Stahlrim Bow
+/minecraft:give @s minecraft:crossbow[minecraft:item_model="conquest:stahlrim_crossbow"]   # Stahlrim Crossbow
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:windforce"]   # Windforce
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:winding_soul"]   # Winding Soul
+/minecraft:give @s minecraft:bow[minecraft:item_model="conquest:xenthium_compound_bow"]   # Xenthium Compound Bow
+
+--- bread ---
+/minecraft:give @s minecraft:bread[minecraft:item_model="conquest:baguette"]   # Baguette
+/minecraft:give @s minecraft:bread[minecraft:item_model="conquest:croissant"]   # Croissant
+/minecraft:give @s minecraft:bread[minecraft:item_model="conquest:dorset_cheese"]   # Dorset Cheese
+/minecraft:give @s minecraft:bread[minecraft:item_model="conquest:dumplings"]   # Dumplings
+/minecraft:give @s minecraft:bread[minecraft:item_model="conquest:lasagna"]   # Lasagna
+/minecraft:give @s minecraft:bread[minecraft:item_model="conquest:sandwich"]   # Sandwich
+
+--- carrot ---
+/minecraft:give @s minecraft:carrot[minecraft:item_model="conquest:beans_seed"]   # Beans Seed
+/minecraft:give @s minecraft:carrot[minecraft:item_model="conquest:legumes_seed"]   # Legumes Seed
+/minecraft:give @s minecraft:carrot[minecraft:item_model="conquest:pole_beans"]   # Pole Beans
+/minecraft:give @s minecraft:carrot[minecraft:item_model="conquest:raw_legumes"]   # Raw Legumes
+
+--- carved_pumpkin ---
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:ancalyban_legionnaire_helmet"]   # Ancalyban Legionnaire Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:ancalyban_praetorian_helmet"]   # Ancalyban Praetorian Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:arabian_helmet"]   # Arabian Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:blue_crested_jousting_helmet"]   # Blue Crested Jousting Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:centurion_helmet"]   # Centurion Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:corinthian_helmet"]   # Corinthian Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:corinthian_officer_helmet"]   # Corinthian Officer Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:eagle_helmet"]   # Eagle Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:fancy_bronze_helmet"]   # Fancy Bronze Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:fancy_viking_helmet"]   # Fancy Viking Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:feather_headdress"]   # Feather Headdress
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:flower_crown"]   # Flower Crown
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:gladiator_helmet"]   # Gladiator Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:green_crested_jousting_helmet"]   # Green Crested Jousting Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:horned_samurai_helmet"]   # Horned Samurai Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:hussar_helmet"]   # Hussar Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:jaguar_helmet"]   # Jaguar Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:knight_helmet"]   # Knight Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:lamellar_helmet"]   # Lamellar Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:legionnaire_helmet"]   # Legionnaire Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:masked_samurai_helmet"]   # Masked Samurai Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:mongolian_helmet"]   # Mongolian Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:ottoman_helmet"]   # Ottoman Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:phoenix_wing_helmet"]   # Phoenix Wing Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:phrygian_helmet"]   # Phrygian Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:plague_doctor_mask"]   # Plague Doctor Mask
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:praetorian_helmet"]   # Praetorian Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:red_crested_jousting_helmet"]   # Red Crested Jousting Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:samurai_helmet"]   # Samurai Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:saracen_helmet"]   # Saracen Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:savaran_cataphract_helmet"]   # Savaran Cataphract Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:strawhat"]   # Strawhat
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:teutonic_knight_helmet"]   # Teutonic Knight Helmet
+/minecraft:give @s minecraft:carved_pumpkin[minecraft:item_model="conquest:yellow_crested_jousting_helmet"]   # Yellow Crested Jousting Helmet
+
+
+--- shield ---
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:11th_century_shield"]   # 11th century shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:15th_century_shield"]   # 15th Century Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:african_tall"]   # African Tall
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:arabian_buckler"]   # Arabian Buckler
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:arabian_kite_shield"]   # Arabian Kite Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:arabian_round_shield"]   # Arabian Round Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:archery_target"]   # Archery Target
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:askirian_scutum"]   # Askirian Scutum
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_roman_scutum"]   # Big Roman Scutum
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_birds_shield"]   # Big Round Birds Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_bloodswirl_shield"]   # Big Round Bloodswirl Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_blue_black_shield"]   # Big Round Blue Black Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_blue_shield"]   # Big Round Blue Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_dragondesign_shield"]   # Big Round Dragondesign Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_fancy_whirl_shield"]   # Big Round Fancy Whirl Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_golden_dragon_shield"]   # Big Round Golden Dragon Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_raven_shield"]   # Big Round Raven Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_red_black_shield"]   # Big Round Red Black Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_red_shield"]   # Big Round Red Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_runes_shield"]   # Big Round Runes Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_triskell_shield"]   # Big Round Triskell Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_whirl_blue_black_shield"]   # Big Round Whirl Blue Black Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_whirl_blue_shield"]   # Big Round Whirl Blue Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_whirl_red_shield"]   # Big Round Whirl Red Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_whirl_red_white_shield"]   # Big Round Whirl Red White Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_whirl_yellow_shield"]   # Big Round Whirl Yellow Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_whirl_yellow_white_shield"]   # Big Round Whirl Yellow White Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_woodshield"]   # Big Round Woodshield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_yellow_black_shield"]   # Big Round Yellow Black Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:big_round_yellow_shield"]   # Big Round Yellow Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:black_brown_squares_heater"]   # Black Brown Squares Heater
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:black_legion_kiteshield"]   # Black Legion Kiteshield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:black_sun_gothic_heatershield"]   # Black Sun Gothic Heatershield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:black_white_stoat_heater"]   # Black White Stoat Heater
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:black_yellow_cross_heater"]   # Black Yellow Cross Heater
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:black_yellow_deer_heater"]   # Black Yellow Deer Heater
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:blackguard_towershield"]   # Blackguard Towershield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:blue_triangle_heater"]   # Blue Triangle Heater
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:bone_shield"]   # Bone Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:burning_heron_kiteshield"]   # Burning Heron Kiteshield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:clean_hoplite_shield"]   # Clean Hoplite Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:coffin_shield"]   # Coffin Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:conquest_heater_sharp"]   # Conquest Heater Sharp
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:crossed_heater_sharp"]   # Crossed Heater Sharp
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:crusader_shield"]   # Crusader Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:dark_sun_shield"]   # Dark Sun Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:decorated_chimalli_shield"]   # Decorated Chimalli Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:decorated_round_bronze_shield"]   # Decorated Round Bronze Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:decorated_tall_chinese_shield"]   # Decorated Tall Chinese Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:dragon_shield"]   # Dragon Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:dwarven_shield"]   # Dwarven Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:dwarven_towershield"]   # Dwarven Towershield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:eagle_heater_shield"]   # Eagle Heater Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:flaming_rose_heater_shield"]   # Flaming Rose Heater Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:fleur_de_lis_heater"]   # Fleur De Lis Heater
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:flicia_shield"]   # Flicia Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:golden_elven_shield"]   # Golden Elven Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:golden_lion_kiteshield"]   # Golden Lion Kiteshield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:golden_rooster_kiteshield"]   # Golden Rooster Kiteshield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:greek_cut"]   # Greek Cut
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:heater_round"]   # Heater Round
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:hoplite_shield_eye"]   # Hoplite Shield Eye
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:hoplite_shield_scorpion"]   # Hoplite Shield Scorpion
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:hoplite_shield_sparta"]   # Hoplite Shield Sparta
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:hoplite_shield_trident"]   # Hoplite Shield Trident
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:iron_buckler"]   # Iron Buckler
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:jousting_shield"]   # Jousting Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:large_leaf_shield"]   # Large Leaf Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:large_pavise_shield"]   # Large Pavise Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:large_persian_cut_shield"]   # Large Persian Cut Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:lords_of_the_pine"]   # Lords Of The Pine
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:norman_shield"]   # Norman Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:ocean_rose_kiteshield"]   # Ocean Rose Kiteshield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:octangular_dwarven_shield"]   # Octangular Dwarven Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:old_kiteshield"]   # Old Kiteshield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:orcish_shield"]   # Orcish Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:red_blue_lion_heater"]   # Red Blue Lion Heater
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:red_gold_antler_heater"]   # Red Gold Antler Heater
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:red_gold_lion_heater"]   # Red Gold Lion Heater
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:red_white_cross_heater"]   # Red White Cross Heater
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:red_white_lions_heater"]   # Red White Lions Heater
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:red_white_trees_heater"]   # Red White Trees Heater
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:reinforced_boar_rounded_scutum"]   # Reinforced Boar Rounded Scutum
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:reinforced_red_swirl_rounded_scutum"]   # Reinforced Red Swirl Rounded Scutum
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:reinforced_rounded_scutum"]   # Reinforced Rounded Scutum
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:reinforced_swirl_rounded_scutum"]   # Reinforced Swirl Rounded Scutum
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:reinforced_white_swirl_round_scutum"]   # Reinforced White Swirl Round Scutum
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:rohirrim_shield"]   # Rohirrim Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:rounded_roman_scutum"]   # Rounded Roman Scutum
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:silver_elven_shield"]   # Silver Elven Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:simple_round_bronze_shield"]   # Simple Round Bronze Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:simple_rounded_scutum"]   # Simple Rounded Scutum
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:simple_tall_chinese_shield"]   # Simple Tall Chinese Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:small_dwarven_shield"]   # Small Dwarven Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:spiral_chimalli_shield"]   # Spiral Chimalli Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:square_wankel_shield"]   # Square Wankel Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:sthadgard_heater_shield"]   # Sthadgard Heater Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:stronghold_heater_sharp"]   # Stronghold Heater Sharp
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:targe_shield"]   # Targe Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:templar_heater"]   # Templar Heater
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:towershield_of_the_horselord"]   # Towershield Of The Horselord
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:uruk_hai_shield"]   # Uruk-hai Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:white_black_eagle_heater"]   # White Black Eagle Heater
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:white_blue_hills_heater"]   # White Blue Hills Heater
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:white_blue_sun_heater"]   # White Blue Sun Heater
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:white_green_diagonal_heater"]   # White Green Diagonal Heater
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:winged_heater"]   # Winged Heater
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:wooden_elven_shield"]   # Wooden Elven Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:xenthium_shield"]   # Xenthium Shield
+/minecraft:give @s minecraft:shield[minecraft:item_model="conquest:yellow_black_lion_heater"]   # Yellow Black Lion Heater
+
+--- sword ---
+/minecraft:give @s minecraft:iron_sword[minecraft:item_model="conquest:left"]   # left
+/minecraft:give @s minecraft:iron_sword[minecraft:item_model="conquest:right"]   # right
+
+--- trident ---
+/minecraft:give @s minecraft:trident[minecraft:item_model="conquest:primitive_hunting_spear"]   # Primitive Hunting Spear
+/minecraft:give @s minecraft:trident[minecraft:item_model="conquest:sharp_pole"]   # Sharp Pole
+/minecraft:give @s minecraft:trident[minecraft:item_model="conquest:smooth_chakram"]   # Smooth Chakram
+/minecraft:give @s minecraft:trident[minecraft:item_model="conquest:steel_sper"]   # Steel Sper
+
+======================================================================
+ARMORS - item_model gives custom inventory icon, equippable renders worn texture.
+======================================================================
+Works on any vanilla armor base (leather/chain/iron/gold/diamond/netherite).
+Examples below use iron; swap the base item to taste (enchantments, durability, etc.
+still behave per the base material).
+
+--- bandit_brigantine ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/bandit_brigantine_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:bandit_brigantine"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/bandit_brigantine_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:bandit_brigantine"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/bandit_brigantine_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:bandit_brigantine"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/bandit_brigantine_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:bandit_brigantine"}]
+
+--- basic_chainmail ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/basic_chainmail_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:basic_chainmail"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/basic_chainmail_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:basic_chainmail"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/basic_chainmail_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:basic_chainmail"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/basic_chainmail_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:basic_chainmail"}]
+
+--- bone_plate ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/bone_plate_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:bone_plate"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/bone_plate_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:bone_plate"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/bone_plate_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:bone_plate"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/bone_plate_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:bone_plate"}]
+
+--- cheap_leather ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/cheap_leather_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:cheap_leather"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/cheap_leather_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:cheap_leather"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/cheap_leather_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:cheap_leather"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/cheap_leather_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:cheap_leather"}]
+
+--- crusader ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/crusader_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:crusader"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/crusader_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:crusader"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/crusader_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:crusader"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/crusader_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:crusader"}]
+
+--- dark_plate ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/dark_plate_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:dark_plate"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/dark_plate_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:dark_plate"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/dark_plate_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:dark_plate"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/dark_plate_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:dark_plate"}]
+
+--- dark_samurai_armor ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/dark_samurai_armor_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:dark_samurai_armor"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/dark_samurai_armor_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:dark_samurai_armor"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/dark_samurai_armor_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:dark_samurai_armor"}]
+
+--- deinmaur_guardian ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/deinmaur_guardian_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:deinmaur_guardian"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/deinmaur_guardian_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:deinmaur_guardian"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/deinmaur_guardian_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:deinmaur_guardian"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/deinmaur_guardian_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:deinmaur_guardian"}]
+
+--- dwarven ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/dwarven_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:dwarven"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/dwarven_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:dwarven"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/dwarven_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:dwarven"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/dwarven_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:dwarven"}]
+
+--- eaglewarrior ---
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/eaglewarrior_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:eaglewarrior"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/eaglewarrior_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:eaglewarrior"}]
+
+--- elbreich ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/elbreich_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:elbreich"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/elbreich_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:elbreich"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/elbreich_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:elbreich"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/elbreich_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:elbreich"}]
+
+--- elven_crown_fancy_gambeson ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/elven_crown_fancy_gambeson_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:elven_crown_fancy_gambeson"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/elven_crown_fancy_gambeson_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:elven_crown_fancy_gambeson"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/elven_crown_fancy_gambeson_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:elven_crown_fancy_gambeson"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/elven_crown_fancy_gambeson_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:elven_crown_fancy_gambeson"}]
+
+--- elven_plate ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/elven_plate_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:elven_plate"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/elven_plate_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:elven_plate"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/elven_plate_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:elven_plate"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/elven_plate_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:elven_plate"}]
+
+--- english_knight ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/english_knight_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:english_knight"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/english_knight_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:english_knight"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/english_knight_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:english_knight"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/english_knight_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:english_knight"}]
+
+--- european_high_knight ---
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/european_high_knight_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:european_high_knight"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/european_high_knight_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:european_high_knight"}]
+
+--- european_peasant ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/european_peasant_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:european_peasant"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/european_peasant_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:european_peasant"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/european_peasant_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:european_peasant"}]
+
+--- fancy_duke_plate ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/fancy_duke_plate_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:fancy_duke_plate"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/fancy_duke_plate_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:fancy_duke_plate"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/fancy_duke_plate_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:fancy_duke_plate"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/fancy_duke_plate_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:fancy_duke_plate"}]
+
+--- flicia_plate ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/flicia_plate_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:flicia_plate"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/flicia_plate_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:flicia_plate"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/flicia_plate_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:flicia_plate"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/flicia_plate_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:flicia_plate"}]
+
+--- french_knight ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/french_knight_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:french_knight"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/french_knight_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:french_knight"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/french_knight_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:french_knight"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/french_knight_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:french_knight"}]
+
+--- golden_crown_majestic ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/golden_crown_majestic_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:golden_crown_majestic"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/golden_crown_majestic_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:golden_crown_majestic"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/golden_crown_majestic_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:golden_crown_majestic"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/golden_crown_majestic_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:golden_crown_majestic"}]
+
+--- greek_plate ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/greek_plate_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:greek_plate"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/greek_plate_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:greek_plate"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/greek_plate_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:greek_plate"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/greek_plate_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:greek_plate"}]
+
+--- heavy_footsoldier ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/heavy_footsoldier_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:heavy_footsoldier"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/heavy_footsoldier_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:heavy_footsoldier"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/heavy_footsoldier_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:heavy_footsoldier"}]
+
+--- heavy_high_plate ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/heavy_high_plate_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:heavy_high_plate"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/heavy_high_plate_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:heavy_high_plate"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/heavy_high_plate_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:heavy_high_plate"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/heavy_high_plate_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:heavy_high_plate"}]
+
+--- herr_of_wurzburg ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/herr_of_wurzburg_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:herr_of_wurzburg"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/herr_of_wurzburg_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:herr_of_wurzburg"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/herr_of_wurzburg_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:herr_of_wurzburg"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/herr_of_wurzburg_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:herr_of_wurzburg"}]
+
+--- high_plate ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/high_plate_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:high_plate"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/high_plate_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:high_plate"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/high_plate_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:high_plate"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/high_plate_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:high_plate"}]
+
+--- hunter ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/hunter_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:hunter"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/hunter_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:hunter"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/hunter_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:hunter"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/hunter_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:hunter"}]
+
+--- icy_plate ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/icy_plate_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:icy_plate"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/icy_plate_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:icy_plate"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/icy_plate_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:icy_plate"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/icy_plate_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:icy_plate"}]
+
+--- invisible ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/invisible_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:invisible"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/invisible_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:invisible"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/invisible_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:invisible"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/invisible_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:invisible"}]
+
+--- legionnaire_plate ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/legionnaire_plate_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:legionnaire_plate"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/legionnaire_plate_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:legionnaire_plate"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/legionnaire_plate_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:legionnaire_plate"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/legionnaire_plate_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:legionnaire_plate"}]
+
+--- light_footsoldier ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/light_footsoldier_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:light_footsoldier"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/light_footsoldier_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:light_footsoldier"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/light_footsoldier_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:light_footsoldier"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/light_footsoldier_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:light_footsoldier"}]
+
+--- longbowarcher ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/longbowarcher_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:longbowarcher"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/longbowarcher_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:longbowarcher"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/longbowarcher_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:longbowarcher"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/longbowarcher_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:longbowarcher"}]
+
+--- lord_of_dragonburg ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/lord_of_dragonburg_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:lord_of_dragonburg"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/lord_of_dragonburg_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:lord_of_dragonburg"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/lord_of_dragonburg_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:lord_of_dragonburg"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/lord_of_dragonburg_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:lord_of_dragonburg"}]
+
+--- lord_of_westwick ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/lord_of_westwick_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:lord_of_westwick"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/lord_of_westwick_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:lord_of_westwick"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/lord_of_westwick_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:lord_of_westwick"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/lord_of_westwick_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:lord_of_westwick"}]
+
+--- lordish ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/lordish_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:lordish"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/lordish_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:lordish"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/lordish_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:lordish"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/lordish_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:lordish"}]
+
+--- magister ---
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/magister_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:magister"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/magister_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:magister"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/magister_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:magister"}]
+
+--- mithril_plate ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/mithril_plate_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:mithril_plate"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/mithril_plate_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:mithril_plate"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/mithril_plate_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:mithril_plate"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/mithril_plate_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:mithril_plate"}]
+
+--- norman ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/norman_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:norman"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/norman_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:norman"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/norman_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:norman"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/norman_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:norman"}]
+
+--- northern ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/northern_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:northern"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/northern_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:northern"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/northern_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:northern"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/northern_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:northern"}]
+
+--- orc ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/orc_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:orc"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/orc_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:orc"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/orc_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:orc"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/orc_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:orc"}]
+
+--- padded_guard_uniform ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/padded_guard_uniform_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:padded_guard_uniform"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/padded_guard_uniform_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:padded_guard_uniform"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/padded_guard_uniform_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:padded_guard_uniform"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/padded_guard_uniform_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:padded_guard_uniform"}]
+
+--- polish_knight_plate ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/polish_knight_plate_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:polish_knight_plate"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/polish_knight_plate_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:polish_knight_plate"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/polish_knight_plate_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:polish_knight_plate"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/polish_knight_plate_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:polish_knight_plate"}]
+
+--- red_samurai_armor ---
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/red_samurai_armor_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:red_samurai_armor"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/red_samurai_armor_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:red_samurai_armor"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/red_samurai_armor_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:red_samurai_armor"}]
+
+--- rogue ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/rogue_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:rogue"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/rogue_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:rogue"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/rogue_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:rogue"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/rogue_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:rogue"}]
+
+--- rootmoss_cloth ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/rootmoss_cloth_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:rootmoss_cloth"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/rootmoss_cloth_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:rootmoss_cloth"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/rootmoss_cloth_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:rootmoss_cloth"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/rootmoss_cloth_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:rootmoss_cloth"}]
+
+--- roseplate ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/roseplate_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:roseplate"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/roseplate_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:roseplate"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/roseplate_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:roseplate"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/roseplate_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:roseplate"}]
+
+--- saracen_plate ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/saracen_plate_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:saracen_plate"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/saracen_plate_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:saracen_plate"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/saracen_plate_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:saracen_plate"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/saracen_plate_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:saracen_plate"}]
+
+--- savaran_cataphract_armor ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/savaran_cataphract_armor_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:savaran_cataphract_armor"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/savaran_cataphract_armor_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:savaran_cataphract_armor"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/savaran_cataphract_armor_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:savaran_cataphract_armor"}]
+
+--- skeletal ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/skeletal_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:skeletal"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/skeletal_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:skeletal"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/skeletal_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:skeletal"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/skeletal_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:skeletal"}]
+
+--- spotted_footsoldier ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/spotted_footsoldier_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:spotted_footsoldier"}]
+
+--- steel_lamellar_armor ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/steel_lamellar_armor_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:steel_lamellar_armor"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/steel_lamellar_armor_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:steel_lamellar_armor"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/steel_lamellar_armor_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:steel_lamellar_armor"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/steel_lamellar_armor_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:steel_lamellar_armor"}]
+
+--- steel_plate ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/steel_plate_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:steel_plate"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/steel_plate_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:steel_plate"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/steel_plate_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:steel_plate"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/steel_plate_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:steel_plate"}]
+
+--- sthadgard_plate ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/sthadgard_plate_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:sthadgard_plate"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/sthadgard_plate_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:sthadgard_plate"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/sthadgard_plate_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:sthadgard_plate"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/sthadgard_plate_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:sthadgard_plate"}]
+
+--- the_black_knight ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/the_black_knight_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:the_black_knight"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/the_black_knight_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:the_black_knight"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/the_black_knight_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:the_black_knight"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/the_black_knight_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:the_black_knight"}]
+
+--- thief ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/thief_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:thief"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/thief_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:thief"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/thief_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:thief"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/thief_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:thief"}]
+
+--- tourney ---
+/minecraft:give @s minecraft:iron_helmet[minecraft:item_model="conquest:armor/tourney_helmet",minecraft:equippable={slot:"head",asset_id:"conquest:tourney"}]
+/minecraft:give @s minecraft:iron_chestplate[minecraft:item_model="conquest:armor/tourney_chestplate",minecraft:equippable={slot:"chest",asset_id:"conquest:tourney"}]
+/minecraft:give @s minecraft:iron_leggings[minecraft:item_model="conquest:armor/tourney_leggings",minecraft:equippable={slot:"legs",asset_id:"conquest:tourney"}]
+/minecraft:give @s minecraft:iron_boots[minecraft:item_model="conquest:armor/tourney_boots",minecraft:equippable={slot:"feet",asset_id:"conquest:tourney"}]

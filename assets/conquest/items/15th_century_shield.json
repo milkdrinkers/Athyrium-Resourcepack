@@ -1,0 +1,14 @@
+{
+  "model": {
+    "on_false": {
+      "model": "conquest:item/shield/15th_century",
+      "type": "minecraft:model"
+    },
+    "on_true": {
+      "model": "conquest:item/shield/15th_century_blocking",
+      "type": "minecraft:model"
+    },
+    "property": "minecraft:using_item",
+    "type": "minecraft:condition"
+  }
+}

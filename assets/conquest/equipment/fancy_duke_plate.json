@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:fancy_duke_plate"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:fancy_duke_plate"
+      }
+    ]
+  }
+}

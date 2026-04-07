@@ -1,0 +1,9 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:helmets/yellow_crested_jousting_helmet"
+      }
+    ]
+  }
+}

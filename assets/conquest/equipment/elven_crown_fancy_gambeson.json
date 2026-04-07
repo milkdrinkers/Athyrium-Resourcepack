@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:elven_crown_fancy_gambeson"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:elven_crown_fancy_gambeson"
+      }
+    ]
+  }
+}

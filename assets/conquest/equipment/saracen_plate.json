@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:saracen_plate"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:saracen_plate"
+      }
+    ]
+  }
+}

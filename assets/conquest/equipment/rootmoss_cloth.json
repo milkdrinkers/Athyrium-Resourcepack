@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:rootmoss_cloth"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:rootmoss_cloth"
+      }
+    ]
+  }
+}

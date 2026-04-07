@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:golden_crown_majestic"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:golden_crown_majestic"
+      }
+    ]
+  }
+}

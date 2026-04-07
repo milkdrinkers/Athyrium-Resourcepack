@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:sthadgard_plate"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:sthadgard_plate"
+      }
+    ]
+  }
+}

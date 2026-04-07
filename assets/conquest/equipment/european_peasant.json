@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:european_peasant"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:european_peasant"
+      }
+    ]
+  }
+}

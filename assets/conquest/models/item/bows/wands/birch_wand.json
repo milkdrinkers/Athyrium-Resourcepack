@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:item/_parents/wand",
+  "textures": {
+    "layer0": "conquest:item/bows/wands/birch_wand"
+  }
+}

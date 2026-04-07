@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:item/_parents/sword",
+  "textures": {
+    "layer0": "conquest:item/melee/hamburger_richtschwert"
+  }
+}

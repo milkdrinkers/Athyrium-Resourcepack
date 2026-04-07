@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:flicia_plate"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:flicia_plate"
+      }
+    ]
+  }
+}

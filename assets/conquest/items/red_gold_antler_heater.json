@@ -1,0 +1,14 @@
+{
+  "model": {
+    "on_false": {
+      "model": "conquest:item/shield/gothic_shield_red_deer",
+      "type": "minecraft:model"
+    },
+    "on_true": {
+      "model": "conquest:item/shield/gothic_shield_red_deer_blocking",
+      "type": "minecraft:model"
+    },
+    "property": "minecraft:using_item",
+    "type": "minecraft:condition"
+  }
+}

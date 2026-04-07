@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:item/_parents/_shield",
+  "textures": {
+    "layer0": "conquest:item/shield/big_round_whirl_blue_black"
+  }
+}

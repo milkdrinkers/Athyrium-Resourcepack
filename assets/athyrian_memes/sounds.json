@@ -1,7 +1,9 @@
 {
 	"chat.ohman": {
 		"sounds": [
-			"death/ohman"
+			{
+				"name": "athyrian_memes:death/ohman"
+			}
 		]
 	}
 }

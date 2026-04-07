@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:bandit_brigantine"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:bandit_brigantine"
+      }
+    ]
+  }
+}

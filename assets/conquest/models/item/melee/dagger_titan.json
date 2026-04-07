@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:item/handheld",
+  "textures": {
+    "layer0": "conquest:item/melee/dagger_titan"
+  }
+}

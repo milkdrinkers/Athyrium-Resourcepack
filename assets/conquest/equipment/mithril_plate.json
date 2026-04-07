@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:mithril_plate"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:mithril_plate"
+      }
+    ]
+  }
+}

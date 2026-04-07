@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:english_knight"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:english_knight"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "model": {
+    "on_false": {
+      "model": "conquest:item/shield/round_shield_01",
+      "type": "minecraft:model"
+    },
+    "on_true": {
+      "model": "conquest:item/shield/round_shield_01_blocking",
+      "type": "minecraft:model"
+    },
+    "property": "minecraft:using_item",
+    "type": "minecraft:condition"
+  }
+}

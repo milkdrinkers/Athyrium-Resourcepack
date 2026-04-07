@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:item/_parents/sword",
+  "textures": {
+    "layer0": "conquest:item/melee/dragonbone_greatsword"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": {
+    "cases": [
+      {
+        "model": {
+          "model": "conquest:item/spears/chinese_qiang_spear",
+          "type": "minecraft:model"
+        },
+        "when": [
+          "gui",
+          "ground",
+          "fixed",
+          "on_shelf"
+        ]
+      }
+    ],
+    "fallback": {
+      "model": "conquest:item/spears/chinese_qiang_spear",
+      "type": "minecraft:model"
+    },
+    "property": "minecraft:display_context",
+    "type": "minecraft:select"
+  }
+}

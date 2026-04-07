@@ -1,0 +1,94 @@
+{
+  "model": {
+    "cases": [
+      {
+        "model": {
+          "on_false": {
+            "model": "conquest:item/bows/serpentstaff",
+            "type": "minecraft:model"
+          },
+          "on_true": {
+            "entries": [
+              {
+                "model": {
+                  "model": "conquest:item/bows/serpentstaff_1",
+                  "type": "minecraft:model"
+                },
+                "threshold": 0.65
+              },
+              {
+                "model": {
+                  "model": "conquest:item/bows/serpentstaff_2",
+                  "type": "minecraft:model"
+                },
+                "threshold": 0.9
+              }
+            ],
+            "fallback": {
+              "model": "conquest:item/bows/serpentstaff_0",
+              "type": "minecraft:model"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05,
+            "type": "minecraft:range_dispatch"
+          },
+          "property": "minecraft:using_item",
+          "type": "minecraft:condition"
+        },
+        "when": [
+          {
+            "minecraft:power": 1
+          },
+          {
+            "minecraft:power": 2
+          },
+          {
+            "minecraft:power": 3
+          },
+          {
+            "minecraft:power": 4
+          },
+          {
+            "minecraft:power": 5
+          }
+        ]
+      }
+    ],
+    "component": "minecraft:enchantments",
+    "fallback": {
+      "on_false": {
+        "model": "minecraft:item/bow",
+        "type": "minecraft:model"
+      },
+      "on_true": {
+        "entries": [
+          {
+            "model": {
+              "model": "minecraft:item/bow_pulling_1",
+              "type": "minecraft:model"
+            },
+            "threshold": 0.65
+          },
+          {
+            "model": {
+              "model": "minecraft:item/bow_pulling_2",
+              "type": "minecraft:model"
+            },
+            "threshold": 0.9
+          }
+        ],
+        "fallback": {
+          "model": "minecraft:item/bow_pulling_0",
+          "type": "minecraft:model"
+        },
+        "property": "minecraft:use_duration",
+        "scale": 0.05,
+        "type": "minecraft:range_dispatch"
+      },
+      "property": "minecraft:using_item",
+      "type": "minecraft:condition"
+    },
+    "property": "minecraft:component",
+    "type": "minecraft:select"
+  }
+}

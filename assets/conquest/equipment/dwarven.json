@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:dwarven"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:dwarven"
+      }
+    ]
+  }
+}

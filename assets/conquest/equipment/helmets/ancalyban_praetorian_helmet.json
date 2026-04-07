@@ -1,0 +1,9 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:helmets/ancalyban_praetorian_helmet"
+      }
+    ]
+  }
+}

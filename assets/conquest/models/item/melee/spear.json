@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:item/_parents/spear",
+  "textures": {
+    "layer0": "conquest:item/melee/spear"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:item/_parents/longassspear",
+  "textures": {
+    "layer0": "conquest:item/melee/jousting_lance_yellow"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:longbowarcher"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:longbowarcher"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:item/_parents/_shield",
+  "textures": {
+    "layer0": "conquest:item/shield/gothic_shield_white_blue"
+  }
+}

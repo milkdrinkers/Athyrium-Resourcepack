@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "conquest:eaglewarrior"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "conquest:eaglewarrior"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:item/_parents/pole",
+  "textures": {
+    "layer0": "conquest:item/spears/twisted_spear"
+  }
+}

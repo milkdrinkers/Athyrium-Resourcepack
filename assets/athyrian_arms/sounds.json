@@ -2,16 +2,16 @@
 	"sound.gunpowder": {
 		"sounds": [
 			{
-				"name": "gunpowder/musket1"
+				"name": "athyrian_arms:gunpowder/musket1"
 			},
 			{
-				"name": "gunpowder/musket2"
+				"name": "athyrian_arms:gunpowder/musket2"
 			},
 			{
-				"name": "gunpowder/musket3"
+				"name": "athyrian_arms:gunpowder/musket3"
 			},
 			{
-				"name": "gunpowder/musket4"
+				"name": "athyrian_arms:gunpowder/musket4"
 			}
 		]
 	}

@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:item/generated",
+  "textures": {
+    "layer0": "conquest:item/melee/old_cleaver"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "conquest:item/armoricons/leggings/european_high_knight"
+  }
+}

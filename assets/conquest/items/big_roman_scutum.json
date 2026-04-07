@@ -1,0 +1,14 @@
+{
+  "model": {
+    "on_false": {
+      "model": "conquest:item/shield/big_roman_scutum",
+      "type": "minecraft:model"
+    },
+    "on_true": {
+      "model": "conquest:item/shield/big_roman_scutum_blocking",
+      "type": "minecraft:model"
+    },
+    "property": "minecraft:using_item",
+    "type": "minecraft:condition"
+  }
+}

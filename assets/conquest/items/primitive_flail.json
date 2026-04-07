@@ -1,0 +1,33 @@
+{
+  "model": {
+    "keybind": "key.attack",
+    "on_false": {
+      "model": "conquest:item/melee/primitive_flail",
+      "type": "minecraft:model"
+    },
+    "on_true": {
+      "cases": [
+        {
+          "model": {
+            "model": "conquest:item/melee/primitive_flail_swing",
+            "type": "minecraft:model"
+          },
+          "when": [
+            "firstperson_righthand",
+            "firstperson_lefthand",
+            "thirdperson_lefthand",
+            "thirdperson_righthand"
+          ]
+        }
+      ],
+      "fallback": {
+        "model": "conquest:item/melee/primitive_flail",
+        "type": "minecraft:model"
+      },
+      "property": "minecraft:display_context",
+      "type": "minecraft:select"
+    },
+    "property": "minecraft:keybind_down",
+    "type": "minecraft:condition"
+  }
+}

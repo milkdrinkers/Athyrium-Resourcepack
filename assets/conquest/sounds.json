@@ -1,162 +1,162 @@
 {
 	"wolves": {
 		"sounds": [
-			"extra/wolf"
+			"conquest:extra/wolf"
 		]
 	},
 	"wind": {
 		"sounds": [
-			"extra/wind"
+			"conquest:extra/wind"
 		]
 	},
 	"waterfall": {
 		"sounds": [
-			"extra/waterfall"
+			"conquest:extra/waterfall"
 		]
 	},
 	"tavern": {
 		"sounds": [
-			"extra/tavern"
+			"conquest:extra/tavern"
 		]
 	},
 	"seagulls": {
 		"sounds": [
-			"extra/seagulls"
+			"conquest:extra/seagulls"
 		]
 	},
 	"rainforest": {
 		"sounds": [
-			"extra/rainforest"
+			"conquest:extra/rainforest"
 		]
 	},
 	"ocean": {
 		"sounds": [
-			"extra/ocean"
+			"conquest:extra/ocean"
 		]
 	},
 	"market": {
 		"sounds": [
-			"extra/market"
+			"conquest:extra/market"
 		]
 	},
 	"forest": {
 		"sounds": [
-			"extra/forest"
+			"conquest:extra/forest"
 		]
 	},
 	"crickets": {
 		"sounds": [
-			"extra/crickets"
+			"conquest:extra/crickets"
 		]
 	},
 	"bells": {
 		"sounds": [
-			"extra/bells"
+			"conquest:extra/bells"
 		]
 	},
 	"stream": {
 		"sounds": [
-			"extra/stream"
+			"conquest:extra/stream"
 		]
 	},
 	"smallwaterfall": {
 		"sounds": [
-			"extra/smallwaterfall"
+			"conquest:extra/smallwaterfall"
 		]
 	},
 	"city": {
 		"sounds": [
-			"extra/city"
+			"conquest:extra/city"
 		]
 	},
 	"harbor": {
 		"sounds": [
-			"extra/harbor"
+			"conquest:extra/harbor"
 		]
 	},
 	"village": {
 		"sounds": [
-			"extra/village"
+			"conquest:extra/village"
 		]
 	},
 	"hall": {
 		"sounds": [
-			"extra/hall"
+			"conquest:extra/hall"
 		]
 	},
 	"bees": {
 		"sounds": [
-			"extra/bees"
+			"conquest:extra/bees"
 		]
 	},
 	"cannon": {
 		"sounds": [
-			"extra/cannon"
+			"conquest:extra/cannon"
 		]
 	},
 	"dripping": {
 		"sounds": [
-			"extra/dripping"
+			"conquest:extra/dripping"
 		]
 	},
 	"goats": {
 		"sounds": [
-			"extra/goats"
+			"conquest:extra/goats"
 		]
 	},
 	"windchimes": {
 		"sounds": [
-			"extra/windchimes"
+			"conquest:extra/windchimes"
 		]
 	},
 	"raven": {
 		"sounds": [
-			"extra/raven"
+			"conquest:extra/raven"
 		]
 	},
 	"battle": {
 		"sounds": [
-			"extra/battle"
+			"conquest:extra/battle"
 		]
 	},
 	"chains": {
 		"sounds": [
-			"extra/chains"
+			"conquest:extra/chains"
 		]
 	},
 	"torture": {
 		"sounds": [
-			"extra/torture"
+			"conquest:extra/torture"
 		]
 	},
 	"gong": {
 		"sounds": [
-			"extra/gong"
+			"conquest:extra/gong"
 		]
 	},
 	"frogs": {
 		"sounds": [
-			"extra/frogs"
+			"conquest:extra/frogs"
 		]
 	},
 	"ducks": {
 		"sounds": [
-			"extra/ducks"
+			"conquest:extra/ducks"
 		]
 	},
 	"boilingwater": {
 		"sounds": [
-			"extra/boilingwater"
+			"conquest:extra/boilingwater"
 		]
 	},
 	"bats": {
 		"sounds": [
-			"extra/bats"
+			"conquest:extra/bats"
 		]
 	},
 	"chop": {
 		"sounds": [
-			"extra/chop"
+			"conquest:extra/chop"
 		]
 	}
 }
