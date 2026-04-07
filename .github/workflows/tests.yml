@@ -18,7 +18,7 @@ jobs:
     steps:
       # Clones repository so it has access to the files
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       # Checks JSON for errors
       - name: Perform JSON Linting
