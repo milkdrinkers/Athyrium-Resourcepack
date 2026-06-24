@@ -1,0 +1,17 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "fade:font/black.png",
+      "height": 512,
+      "ascent": 256,
+      "chars": [
+        "ꐓ"
+      ]
+    },
+    {
+      "type": "reference",
+      "id": "nexo:shift"
+    }
+  ]
+}
